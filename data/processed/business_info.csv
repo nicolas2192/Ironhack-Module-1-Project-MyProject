@@ -1,0 +1,2209 @@
+id,Sector,Company,Worth(BUSD)
+7468,Technology,Amazon,112.0
+4605,Technology,Microsoft,90.0
+7368,Finance and Investments,Berkshire Hathaway,84.0
+3808,Fashion & Retail,LVMH,72.0
+3213,Technology,Facebook,71.0
+3734,Fashion & Retail,Zara,70.0
+9259,Telecom,telecom,67.1
+7159,Diversified,Koch Industries,60.0
+7935,Diversified,Koch Industries,60.0
+2736,Technology,software,58.5
+6894,Media & Entertainment,Bloomberg LP,50.0
+4144,Technology,Google,48.8
+2391,Technology,Google,47.5
+3266,Fashion & Retail,Walmart,46.4
+2934,Fashion & Retail,Walmart,46.2
+9572,Fashion & Retail,Walmart,46.0
+7741,Technology,internet media,45.3
+5965,Fashion & Retail,L'Oreal,42.2
+6392,Energy,"petrochemicals, oil & gas",40.1
+3933,Technology,e-commerce,39.0
+4389,Gambling & Casinos,casinos,38.5
+2313,Technology,Microsoft,38.4
+9450,Diversified,diversified,34.9
+7612,Real Estate,real estate,30.3
+9293,Real Estate,real estate,30.3
+2977,Real Estate,real estate,30.0
+5316,Fashion & Retail,supermarkets,29.8
+9123,Fashion & Retail,Nike,29.6
+4229,Food and Beverage,beer,27.4
+1613,Fashion & Retail,luxury goods,27.0
+2835,Automotive,auto parts,25.3
+1282,Automotive,"BMW, pharmaceuticals",25.0
+2683,Media & Entertainment,media,25.0
+9516,Food and Beverage,"candy, pet food",23.6
+4560,Food and Beverage,"candy, pet food",23.6
+8944,Finance and Investments,banking,23.5
+2489,Food and Beverage,"Nutella, chocolates",23.0
+5726,Food and Beverage,Red Bull,23.0
+9977,Technology,Dell computers,22.7
+1598,Telecom,"internet, telecom",22.7
+7722,Diversified,diversified,22.6
+6980,Automotive,BMW,22.0
+8692,Real Estate,real estate,21.9
+7771,Technology,"Microsoft, investments",21.7
+7830,Fashion & Retail,eyeglasses,21.2
+2077,Fashion & Retail,retail,20.9
+1596,Finance and Investments,discount brokerage,20.3
+1462,Fashion & Retail,"Aldi, Trader Joe's",20.2
+6355,Diversified,diversified,20.2
+6226,Manufacturing,home appliances,20.1
+1731,Gambling & Casinos,casinos,20.1
+5353,Diversified,diversified,20.0
+8804,Finance and Investments,hedge funds,20.0
+6673,Automotive,Tesla Motors,19.9
+6610,Diversified,diversified,19.5
+7653,Fashion & Retail,fashion retail,19.5
+7971,Metals & Mining,"steel, transport",19.1
+4890,Philanthropy/NGO,"Apple, Disney",18.8
+8874,Technology,software services,18.8
+5610,Metals & Mining,"steel, investments",18.7
+4732,Diversified,Samsung,18.6
+4008,Metals & Mining,steel,18.5
+1339,Service,package delivery,18.2
+7510,Energy,"gas, chemicals",18.0
+1035,Food and Beverage,"drinks, real estate",17.9
+3873,Construction & Engineering,construction,17.8
+2607,Finance and Investments,hedge funds,17.7
+4337,Manufacturing,sensors,17.5
+5284,Metals & Mining,mining,17.4
+8708,Technology,online games,17.4
+8683,Finance and Investments,"banking, tobacco",17.4
+6596,Metals & Mining,mining,17.3
+9921,Finance and Investments,investments,16.8
+5443,Fashion & Retail,H&M,16.8
+1870,Manufacturing,"banking, tobacco",16.7
+7621,Real Estate,real estate,16.7
+7304,Real Estate,real estate,16.5
+1194,Energy,oil,16.4
+4532,Manufacturing,chemicals,16.4
+1909,Real Estate,real estate,16.3
+2163,Metals & Mining,mining,16.3
+9937,Energy,"oil, gas",16.0
+8005,Finance and Investments,money management,15.9
+7802,Metals & Mining,metals,15.9
+4469,Fashion & Retail,Walmart,15.9
+2701,Food and Beverage,Heineken,15.8
+1337,Technology,internet media,15.6
+3747,Energy,"coal, fertilizers",15.5
+5545,Real Estate,"investments, real estate",15.5
+4816,Finance and Investments,banking,15.5
+5889,Logistics,shipping,15.3
+4360,Automotive,automobiles,15.3
+9150,Energy,"oil, banking, telecom",15.1
+6645,Media & Entertainment,"newspapers, TV network",15.0
+8671,Diversified,diversified,14.9
+2252,Diversified,"palm oil, shipping, property",14.8
+1161,Food and Beverage,cheese,14.7
+7840,Technology,software services,14.6
+7890,Energy,"metals, energy",14.4
+4183,Manufacturing,"cement, sugar, flour",14.1
+6752,Energy,oil & gas,14.1
+1845,Technology,Facebook,14.0
+1867,Food and Beverage,beer,14.0
+8248,Finance and Investments,hedge funds,14.0
+4197,Manufacturing,fasteners,13.6
+5338,Media & Entertainment,satellite TV,13.4
+8759,Technology,Google,13.4
+8472,Media & Entertainment,media,13.0
+8007,Fashion & Retail,Chanel,13.0
+7934,Fashion & Retail,Chanel,13.0
+6409,Media & Entertainment,media,13.0
+5871,Finance and Investments,investments,13.0
+4397,Fashion & Retail,Estee Lauder,12.9
+8231,Construction & Engineering,brakes,12.9
+7607,Healthcare,pharmaceuticals,12.8
+8549,Technology,software,12.7
+9350,Finance and Investments,investments,12.6
+2791,Technology,smartphones,12.5
+3810,Manufacturing,packaging,12.5
+8812,Metals & Mining,"steel, telecom, investments",12.5
+2980,Media & Entertainment,media,12.3
+4042,Real Estate,real estate,12.2
+5848,Finance and Investments,banking,12.1
+9183,Technology,internet search,12.0
+2387,Food and Beverage,beer,12.0
+3612,Healthcare,biotech,11.9
+5312,Diversified,commodities,11.8
+5339,Real Estate,real estate,11.8
+2615,Fashion & Retail,drugstores,11.8
+3806,Technology,software,11.7
+6283,Metals & Mining,"mining, copper products",11.7
+6015,Finance and Investments,"banks, real estate",11.6
+7204,Food and Beverage,"Oyster sauce, real estate",11.6
+3724,Fashion & Retail,home improvement stores,11.5
+7206,Food and Beverage,"snacks, beverages",11.3
+4800,Technology,security software,11.3
+4354,Finance and Investments,video surveillance,11.2
+8065,Finance and Investments,hedge funds,11.0
+8337,Fashion & Retail,"retail, real estate",11.0
+4074,Real Estate,real estate,10.8
+3158,Diversified,"steel, investments",10.8
+4840,Technology,e-commerce,10.8
+9830,Finance and Investments,banking,10.7
+9713,Metals & Mining,mining,10.7
+7938,Technology,eBay,10.5
+1025,Service,consulting,10.3
+9521,Technology,software,10.2
+1137,Finance and Investments,investments,10.1
+7719,Technology,Facebook,10.1
+4277,Real Estate,real estate,10.1
+3431,Finance and Investments,"investments, retail",10.0
+9145,Energy,"oil, banking, telecom",9.8
+6265,Finance and Investments,leveraged buyouts,9.8
+6770,Diversified,"commodities, ports",9.7
+9383,Service,Carnival Cruises,9.7
+3034,Technology,electronics,9.7
+4725,Technology,e-commerce,9.7
+9004,Finance and Investments,investments,9.6
+3021,Healthcare,health care,9.6
+7443,Fashion & Retail,retail,9.5
+4673,Food and Beverage,beverages,9.5
+2453,Diversified,"real estate, shipping",9.4
+8229,Finance and Investments,discount brokerage,9.4
+5315,Logistics,Shipping,9.3
+1714,Manufacturing,plumbing fixtures,9.3
+6903,Manufacturing,steel,9.3
+7265,Real Estate,real estate,9.2
+9376,Finance and Investments,investments,9.2
+4075,Diversified,conglomerate,9.2
+5025,Technology,WhatsApp,9.1
+6340,Healthcare,vaccines,9.1
+2862,Technology,software,9.0
+9748,Finance and Investments,hedge funds,9.0
+4757,Healthcare,"biotech, investments",8.9
+4036,Fashion & Retail,luxury goods,8.9
+2497,Telecom,telecom,8.8
+2610,Metals & Mining,steel,8.8
+3066,Media & Entertainment,media,8.7
+3660,Media & Entertainment,media,8.7
+2092,Media & Entertainment,media,8.7
+7448,Technology,electronics,8.5
+5150,Technology,Intel,8.5
+3951,Diversified,diversified,8.3
+6170,Sports,"sports, real estate",8.3
+9305,Finance and Investments,investments,8.2
+5207,Gambling & Casinos,gambling,8.1
+8017,Diversified,conglomerate,8.1
+4721,Media & Entertainment,cable television,8.1
+7648,Telecom,"internet, telecom",8.1
+2159,Real Estate,real estate,8.0
+2399,Finance and Investments,hedge funds,8.0
+8474,Real Estate,real estate,8.0
+5835,Media & Entertainment,"movies, record labels",8.0
+5615,Healthcare,medical devices,8.0
+4889,Diversified,media,8.0
+3297,Finance and Investments,money management,7.9
+4047,Healthcare,pharmaceuticals,7.9
+5875,Technology,business software,7.8
+1450,Energy,"oil & gas, banking",7.8
+2276,Healthcare,pharmaceuticals,7.8
+1016,Technology,smartphone screens,7.8
+9006,Metals & Mining,diamonds,7.7
+2178,Healthcare,pharmaceuticals,7.7
+6065,Real Estate,real estate,7.7
+1510,Energy,"oil, banking, telecom",7.6
+1737,Real Estate,real estate,7.6
+6092,Fashion & Retail,fashion retail,7.4
+4826,Diversified,Samsung,7.4
+9767,Food and Beverage,Cargill,7.4
+3793,Finance and Investments,investments,7.4
+3179,Energy,"hotels, energy",7.3
+3064,Metals & Mining,"mining, metals, machinery",7.3
+4794,Healthcare,health care,7.3
+1296,Real Estate,real estate,7.3
+1570,Fashion & Retail,Walmart,7.3
+8295,Finance and Investments,investments,7.3
+1283,Automotive,auto parts,7.2
+4917,Telecom,"telecoms, media, oil-services",7.2
+1651,Energy,oil,7.2
+8922,Diversified,"banking, property",7.2
+5422,Real Estate,real estate,7.2
+5782,Construction & Engineering,Construction,7.1
+4184,Fashion & Retail,"retail, media",7.1
+4289,Fashion & Retail,cosmetics,7.1
+6913,Food and Beverage,beverages,7.1
+8076,Technology,venture capital,7.1
+4588,Telecom,telecom,7.1
+6141,Real Estate,real estate,7.0
+6274,Food and Beverage,wine,7.0
+7296,Fashion & Retail,luxury goods,7.0
+5810,Food and Beverage,packaging,7.0
+1599,Logistics,shipping,7.0
+9265,Manufacturing,polyester,7.0
+2504,Manufacturing,paints,7.0
+1573,Logistics,shipping,7.0
+2681,Finance and Investments,financial services,7.0
+2477,Energy,oil,6.9
+9961,Technology,online games,6.9
+4297,Fashion & Retail,Zara,6.9
+1114,Diversified,diversified,6.9
+9441,Finance and Investments,hedge funds,6.9
+7162,Manufacturing,fertilizer,6.8
+6318,Technology,Google,6.8
+7853,Food and Beverage,"food, beverages",6.8
+5203,Real Estate,real estate,6.8
+1165,Fashion & Retail,supermarkets,6.8
+4434,Fashion & Retail,retail,6.8
+8515,Metals & Mining,"aluminum, utilities",6.7
+5754,Service,diversified,6.7
+3897,Finance and Investments,pharmaceuticals,6.7
+8951,Food and Beverage,packaging,6.6
+1775,Finance and Investments,banking,6.6
+6860,Construction & Engineering,"construction, chemicals",6.6
+9895,Fashion & Retail,"retail, real estate",6.6
+5278,Energy,wind turbines,6.6
+4310,Food and Beverage,packaging,6.6
+6480,Fashion & Retail,Walmart,6.6
+2958,Finance and Investments,private equity,6.6
+5950,Technology,WhatsApp,6.6
+5729,Food and Beverage,candy,6.6
+1837,Finance and Investments,private equity,6.5
+4554,Metals & Mining,mining,6.5
+9473,Finance and Investments,hedge funds,6.5
+5468,Automotive,automobiles,6.5
+6530,Food and Beverage,soy sauce maker,6.4
+2303,Real Estate,real estate,6.4
+4331,Real Estate,real estate,6.4
+9732,Finance and Investments,hedge funds,6.4
+7049,Real Estate,real estate,6.4
+1382,Real Estate,real estate,6.4
+6129,Finance and Investments,investments,6.4
+2891,Media & Entertainment,advertising,6.4
+6095,Fashion & Retail,retail,6.4
+2711,Real Estate,real estate,6.3
+4634,Diversified,diversified,6.3
+8281,Automotive,motorcycles,6.3
+4098,Automotive,auto parts,6.3
+9264,Finance and Investments,Quicken Loans,6.3
+8915,Food and Beverage,consumer goods,6.3
+3814,Healthcare,optometry,6.3
+7064,Finance and Investments,investments,6.2
+6628,Energy,pipelines,6.2
+2068,Sports,New England Patriots,6.2
+2922,Fashion & Retail,Ralph Lauren,6.2
+1453,Finance and Investments,banking,6.2
+3196,Food and Beverage,consumer goods,6.2
+9251,Service,food services,6.1
+7414,Fashion & Retail,retail,6.1
+9568,Food and Beverage,Cargill,6.0
+7998,Finance and Investments,banking,6.0
+5169,Automotive,auto parts,6.0
+5187,Diversified,diversified,6.0
+7625,Fashion & Retail,"textiles, apparel",6.0
+5517,Technology,Google,6.0
+5105,Manufacturing,cement,6.0
+1660,Diversified,diversified,5.9
+4225,Food and Beverage,"beer, investments",5.9
+5993,Technology,internet service provider,5.9
+2593,Real Estate,shopping malls,5.9
+5024,Healthcare,pharmaceuticals,5.9
+6547,Food and Beverage,"candy, pet food",5.9
+7529,Food and Beverage,"candy, pet food",5.9
+7600,Food and Beverage,"candy, pet food",5.9
+6098,Food and Beverage,"candy, pet food",5.9
+1541,Energy,investments,5.8
+2112,Fashion & Retail,appliance retailer,5.8
+8838,Manufacturing,furniture,5.8
+3036,Logistics,"construction, mining",5.8
+1087,Fashion & Retail,retail & gas stations,5.8
+8086,Fashion & Retail,Walmart,5.8
+5768,Technology,online games,5.8
+7914,Diversified,food and beverage,5.8
+7856,Real Estate,real estate,5.8
+2415,Diversified,"media, retail",5.8
+1990,Manufacturing,metalworking tools,5.7
+6174,Food and Beverage,tequila,5.7
+3776,Technology,computer hardware,5.7
+4139,Technology,computer hardware,5.7
+8353,Manufacturing,heating equipment,5.7
+4245,Healthcare,medical devices,5.7
+1121,Manufacturing,manufacturing,5.6
+4550,Manufacturing,motors,5.6
+5178,Real Estate,real estate,5.6
+8266,Media & Entertainment,publishing,5.6
+2685,Manufacturing,electronics,5.6
+9405,Manufacturing,"palm oil, property",5.6
+5985,Real Estate,real estate,5.6
+6775,Technology,semiconductors,5.6
+7478,Real Estate,Real Estate,5.6
+4585,Sports,Dallas Cowboys,5.6
+6801,Finance and Investments,money management,5.6
+2547,Fashion & Retail,diamond jewelry,5.6
+8186,Manufacturing,vacuums,5.6
+1489,Manufacturing,chemicals,5.5
+2378,Gambling & Casinos,videogames,5.5
+5346,Manufacturing,manufacturing,5.5
+1821,Manufacturing,chemicals,5.5
+5653,Energy,pipelines,5.5
+6478,Service,after-school tutoring,5.5
+6218,Metals & Mining,aluminum products,5.5
+6133,Fashion & Retail,online retail,5.5
+1081,Real Estate,"real estate, finance",5.5
+5666,Construction & Engineering,roofing,5.5
+6830,Metals & Mining,"steel, coal",5.5
+2957,Energy,pipelines,5.5
+7698,Manufacturing,chemicals,5.5
+9281,Manufacturing,chemicals,5.5
+5218,Energy,pipelines,5.5
+9828,Service,Carnival Cruises,5.5
+8952,Energy,pipelines,5.5
+9345,Manufacturing,Lego,5.4
+3822,Manufacturing,Lego,5.4
+9620,Real Estate,real estate,5.4
+9437,Finance and Investments,private equity,5.4
+1479,Food and Beverage,commodities,5.4
+8092,Technology,electronics,5.4
+6946,Manufacturing,smartphone screens,5.4
+6025,Manufacturing,Lego,5.4
+1960,Fashion & Retail,coffee,5.4
+2185,Fashion & Retail,coffee,5.4
+3689,Service,Amway,5.4
+7388,Food and Beverage,cheese,5.4
+1395,Food and Beverage,cheese,5.4
+1769,Manufacturing,Lego,5.4
+4305,Finance and Investments,private equity,5.3
+7775,Manufacturing,"chemicals, logistics",5.3
+3283,Food and Beverage,cheese,5.3
+6696,Technology,Yahoo,5.3
+4163,Gambling & Casinos,casinos,5.3
+7086,Manufacturing,New Balance,5.3
+7466,Diversified,"telecom, oil",5.3
+3257,Automotive,"batteries, automobiles",5.2
+7499,Food and Beverage,frozen foods,5.2
+5373,Media & Entertainment,publishing,5.2
+3876,Media & Entertainment,media,5.2
+4212,Media & Entertainment,Star Wars,5.2
+5296,Finance and Investments,hedge funds,5.2
+5213,Service,temp agency,5.2
+5104,Finance and Investments,hedge funds,5.2
+5938,Metals & Mining,"steel, mining",5.2
+1385,Food and Beverage,"pizza, sports team",5.2
+5561,Diversified,"banking, minerals",5.1
+2969,Healthcare,medical equipment,5.1
+5695,Logistics,FedEx,5.1
+8588,Fashion & Retail,Home Depot,5.1
+7185,Energy,"oil, banking, telecom",5.1
+9073,Diversified,"energy, investments",5.1
+1526,Diversified,"banking, minerals",5.0
+8109,Fashion & Retail,retail,5.0
+2786,Manufacturing,diapers,5.0
+8493,Fashion & Retail,duty-free,5.0
+1805,Construction & Engineering,cement,5.0
+7571,Service,"hotels, investments",5.0
+2006,Healthcare,pharmaceuticals,5.0
+1653,Finance and Investments,"banking, minerals",5.0
+7891,Manufacturing,appliances,5.0
+9465,Diversified,"banking, minerals",5.0
+7401,Finance and Investments,investments,5.0
+5623,Real Estate,real estate,5.0
+2337,Media & Entertainment,"book distribution, transportation",5.0
+1638,Gambling & Casinos,online gambling,5.0
+1192,Media & Entertainment,media,5.0
+4846,Diversified,Virgin,5.0
+9188,Fashion & Retail,fashion retail,4.9
+6178,Real Estate,"real estate, private equity",4.9
+8321,Logistics,ports,4.9
+2194,Metals & Mining,steel,4.9
+3254,Finance and Investments,hedge funds,4.9
+4298,Healthcare,medical devices,4.9
+3425,Metals & Mining,pipe manufacturing,4.9
+3927,Media & Entertainment,media,4.9
+6376,Finance and Investments,mining,4.9
+5235,Healthcare,pharmaceuticals,4.9
+9502,Automotive,motor vehicles,4.9
+2983,Energy,"oil, investments",4.9
+7615,Technology,business software,4.9
+7311,Construction & Engineering,"construction, media",4.9
+8779,Finance and Investments,hedge funds,4.9
+5952,Media & Entertainment,cable television,4.9
+3961,Energy,"oil, real estate",4.9
+4265,Service,agribusiness,4.9
+1404,Fashion & Retail,retail,4.8
+6635,Finance and Investments,investments,4.8
+9256,Finance and Investments,investments,4.8
+2858,Finance and Investments,investments,4.8
+3634,Food and Beverage,food,4.8
+9681,Technology,eBay,4.8
+4749,Gambling & Casinos,online gambling,4.8
+6030,Energy,oil & gas,4.8
+5453,Metals & Mining,fertilizer,4.8
+5659,Technology,Uber,4.8
+6750,Metals & Mining,metals,4.8
+7690,Finance and Investments,money management,4.8
+1460,Energy,"oil, real estate",4.8
+2287,Fashion & Retail,fashion retail,4.8
+5514,Technology,surveillance equipment,4.8
+4398,Food and Beverage,Chick-fil-A,4.8
+2899,Food and Beverage,Chick-fil-A,4.8
+4876,Technology,Uber,4.8
+8178,Diversified,diversified,4.8
+9884,Healthcare,medical devices,4.7
+8093,Diversified,diversified,4.7
+1582,Real Estate,real estate,4.7
+7447,Real Estate,real estate,4.7
+2316,Food and Beverage,food distribution,4.7
+7664,Food and Beverage,Cargill,4.7
+2633,Real Estate,"real estate, investments",4.7
+9527,Food and Beverage,food distribution,4.7
+7442,Gambling & Casinos,casinos,4.7
+4451,Manufacturing,auto parts,4.7
+9082,Real Estate,real estate,4.7
+4278,Finance and Investments,hedge funds,4.7
+7593,Media & Entertainment,record label,4.7
+6191,Healthcare,hospitals,4.7
+3732,Manufacturing,petrochemicals,4.7
+6079,Finance and Investments,cryptocurrency,4.6
+7196,Telecom,telecom,4.6
+5042,Manufacturing,construction equipment,4.6
+1306,Manufacturing,paper,4.6
+9301,Service,concessions,4.6
+6338,Finance and Investments,investments,4.6
+8895,Real Estate,real estate,4.6
+2108,Diversified,biotech,4.6
+4901,Food and Beverage,agriculture,4.6
+5232,Real Estate,"real estate, retail",4.6
+6861,Finance and Investments,hedge funds,4.5
+6366,Healthcare,pharmaceuticals,4.5
+3992,Real Estate,real estate,4.5
+2099,Technology,software,4.5
+6979,Fashion & Retail,supermarkets,4.5
+3574,Finance and Investments,banking,4.5
+3931,Fashion & Retail,retail,4.5
+4658,Manufacturing,steel,4.5
+8956,Real Estate,real estate,4.5
+1781,Service,education,4.5
+1538,Manufacturing,fertilizers,4.5
+5944,Telecom,"IT, telecom",4.5
+6345,Food and Beverage,spirits,4.5
+2973,Service,airlines,4.5
+8238,Food and Beverage,energy drinks,4.4
+2029,Finance and Investments,private equity,4.4
+6412,Fashion & Retail,consumer goods,4.4
+8483,Fashion & Retail,consumer goods,4.4
+6906,Fashion & Retail,consumer goods,4.4
+4208,Fashion & Retail,consumer goods,4.4
+8656,Fashion & Retail,sporting goods retail,4.4
+3531,Fashion & Retail,home furnishings,4.4
+9326,Food and Beverage,dairy,4.4
+5101,Service,self storage,4.4
+3260,Telecom,telecom,4.4
+4665,Fashion & Retail,retail,4.4
+2394,Gambling & Casinos,gambling,4.4
+5919,Metals & Mining,mining,4.4
+7085,Service,hotels,4.4
+5309,Finance and Investments,banking,4.4
+5992,Real Estate,real estate,4.4
+1606,Construction & Engineering,construction equipment,4.4
+3129,Fashion & Retail,grocery stores,4.4
+5909,Technology,wireless networking gear,4.3
+9634,Fashion & Retail,retail,4.3
+1875,Diversified,diversified,4.3
+9889,Food and Beverage,beer,4.3
+6729,Food and Beverage,beer,4.3
+8125,Service,pest control,4.3
+4481,Service,pest control,4.3
+2658,Fashion & Retail,"retail, real estate",4.3
+7475,Energy,natural gas,4.3
+9750,Food and Beverage,"Houston Rockets, entertainment",4.3
+5650,Fashion & Retail,coffee makers,4.3
+9012,Telecom,telecom,4.3
+2365,Manufacturing,auto parts,4.3
+6942,Automotive,motorcycles,4.3
+3419,Fashion & Retail,retail,4.3
+4235,Fashion & Retail,retail,4.2
+6708,Energy,natural gas distribution,4.2
+7668,Energy,"utilities, telecom",4.2
+5451,Real Estate,real estate,4.2
+7044,Technology,Snapchat,4.2
+7033,Food and Beverage,Cargill,4.2
+2340,Finance and Investments,investments,4.2
+2147,Diversified,diversified,4.2
+9918,Manufacturing,"timberland, lumber mills",4.2
+5330,Food and Beverage,Cargill,4.2
+2151,Food and Beverage,Cargill,4.2
+2856,Sports,"staffing, Baltimore Ravens",4.2
+9629,Manufacturing,"elevators, escalators",4.2
+9786,Fashion & Retail,fashion,4.1
+6901,Manufacturing,kitchen appliances,4.1
+3918,Finance and Investments,"hotels, investments",4.1
+8296,Finance and Investments,hedge funds,4.1
+6617,Technology,Snapchat,4.1
+1754,Real Estate,real estate,4.1
+9960,Telecom,mobile phone retailer,4.1
+9185,Gambling & Casinos,casinos,4.1
+1942,Technology,e-commerce,4.1
+9311,Energy,pipelines,4.1
+2730,Media & Entertainment,Marvel comics,4.1
+1607,Diversified,"computer services, real estate",4.1
+4467,Food and Beverage,candy,4.1
+8826,Energy,petrochemicals,4.1
+6231,Automotive,motorcycles,4.1
+4824,Sports,Home Depot,4.1
+3722,Diversified,diversified,4.1
+6670,Technology,mapping software,4.1
+4537,Finance and Investments,investments,4.1
+5053,Real Estate,shopping malls,4.1
+5467,Fashion & Retail,sunglasses,4.1
+6620,Diversified,diversified,4.1
+5943,Real Estate,real estate,4.1
+1170,Fashion & Retail,sporting goods,4.0
+4053,Technology,software,4.0
+1156,Metals & Mining,aluminum,4.0
+6059,Logistics,package delivery,4.0
+4259,Food and Beverage,food,4.0
+1285,Real Estate,real estate,4.0
+1831,Healthcare,healthcare,4.0
+7261,Telecom,telecom,4.0
+6122,Food and Beverage,food,4.0
+5454,Technology,venture capital,4.0
+2344,Fashion & Retail,Best Buy,4.0
+6418,Fashion & Retail,Estee Lauder,4.0
+7245,Healthcare,"pharmaceuticals, medical equipment",4.0
+8131,Construction & Engineering,construction,4.0
+8195,Real Estate,retail,4.0
+3706,Fashion & Retail,furniture retailing,4.0
+3290,Technology,Dolby Laboratories,4.0
+2360,Healthcare,medical technology,4.0
+8728,Automotive,Toyota dealerships,4.0
+4686,Real Estate,real estate,4.0
+4717,Fashion & Retail,retail,4.0
+4482,Real Estate,real estate,4.0
+4571,Diversified,diversified,3.9
+9675,Healthcare,dental implants,3.9
+8718,Service,aircraft leasing,3.9
+3790,Finance and Investments,banking,3.9
+1407,Food and Beverage,agriculture,3.9
+1141,Real Estate,real estate,3.9
+5279,Food and Beverage,"agriculture, water",3.9
+3166,Construction & Engineering,construction,3.9
+5978,Technology,electronics,3.9
+2723,Fashion & Retail,retail,3.9
+6792,Finance and Investments,coffee,3.9
+6219,Finance and Investments,coffee,3.9
+9331,Finance and Investments,financial services,3.9
+3691,Finance and Investments,private equity,3.9
+1628,Real Estate,real estate,3.9
+3863,Diversified,diversified,3.9
+8030,Finance and Investments,diversified,3.8
+4326,Diversified,diversified,3.8
+3787,Technology,smartphone components,3.8
+9363,Technology,semiconductors,3.8
+9911,Finance and Investments,investments,3.8
+1253,Real Estate,real estate,3.8
+4841,Fashion & Retail,shoes,3.8
+6333,Sports,"energy, sports",3.8
+6292,Real Estate,real estate,3.8
+5564,Media & Entertainment,publishing,3.8
+6441,Manufacturing,chemicals,3.8
+6517,Construction & Engineering,homebuilding,3.8
+8831,Technology,Airbnb,3.8
+1824,Diversified,investments,3.8
+7677,Technology,Airbnb,3.8
+6954,Finance and Investments,insurance,3.8
+6865,Technology,Airbnb,3.8
+9045,Real Estate,"real estate, investments",3.8
+4031,Finance and Investments,tech investments,3.7
+8733,Gambling & Casinos,casinos,3.7
+7105,Manufacturing,hair dryers,3.7
+3538,Real Estate,real estate,3.7
+1808,Finance and Investments,investments,3.7
+5600,Diversified,diversified,3.7
+8102,Healthcare,pharmaceuticals,3.7
+3922,Healthcare,pharmaceuticals,3.7
+7121,Real Estate,real estate,3.7
+8553,Construction & Engineering,real estate,3.7
+2173,Finance and Investments,finance,3.7
+6659,Healthcare,pharmaceuticals,3.7
+5636,Manufacturing,"fertilizer, real estate",3.7
+6947,Finance and Investments,hedge funds,3.7
+5388,Media & Entertainment,online media,3.7
+6299,Finance and Investments,money management,3.7
+4418,Finance and Investments,banking,3.7
+2495,Food and Beverage,beverages,3.7
+4012,Manufacturing,cleaning products,3.7
+9093,Manufacturing,cleaning products,3.7
+7781,Manufacturing,cleaning products,3.7
+1120,Manufacturing,cleaning products,3.7
+3181,Manufacturing,cleaning products,3.7
+9090,Diversified,consumer goods,3.6
+7597,Manufacturing,chemicals,3.6
+7524,Real Estate,real estate,3.6
+3659,Real Estate,real estate,3.6
+7441,Healthcare,pharmaceuticals,3.6
+9445,Logistics,cruise ships,3.6
+5421,Automotive,auto parts,3.6
+7433,Media & Entertainment,Movies,3.6
+2705,Finance and Investments,discount brokerage,3.6
+8712,Energy,energy,3.6
+1431,Fashion & Retail,fashion retail,3.6
+4316,Food and Beverage,pig breeding,3.6
+1340,Healthcare,vaccine production,3.6
+9660,Fashion & Retail,sports retailing,3.6
+9453,Healthcare,biotech,3.6
+1529,Manufacturing,manufacturing,3.6
+6985,Healthcare,pharmaceuticals,3.6
+7505,Finance and Investments,investments,3.6
+2205,Finance and Investments,money management,3.6
+4898,Finance and Investments,money management,3.6
+6290,Energy,oil,3.6
+1904,Healthcare,pharmaceuticals,3.6
+3216,Diversified,"drilling, shipping",3.6
+5372,Service,"hotels, investments",3.5
+3471,Diversified,"retail, real estate",3.5
+2217,Finance and Investments,venture capital,3.5
+6024,Media & Entertainment,movie making,3.5
+7516,Manufacturing,"manufacturing, investments",3.5
+3005,Finance and Investments,"hotels, investments",3.5
+5329,Diversified,diversified,3.5
+7172,Logistics,"shipping, seafood",3.5
+4181,Finance and Investments,"banking, real estate",3.5
+6559,Real Estate,real estate,3.5
+7818,Diversified,diversified,3.5
+2812,Food and Beverage,meat processing,3.5
+6425,Real Estate,real estate,3.5
+6244,Fashion & Retail,"fashion retail, investments",3.5
+4179,Service,airport,3.5
+3416,Fashion & Retail,retail,3.5
+5644,Construction & Engineering,engineering,3.5
+6541,Fashion & Retail,"fashion retail, investments",3.5
+4989,Fashion & Retail,"fashion retail, investments",3.5
+8707,Healthcare,hospitals,3.5
+7808,Manufacturing,paints,3.5
+2038,Fashion & Retail,"fashion retail, investments",3.5
+9883,Sports,Formula One,3.5
+6632,Technology,health IT,3.5
+6964,Real Estate,"real estate, finance",3.5
+8930,Finance and Investments,private equity,3.5
+1516,Energy,oil,3.5
+5553,Technology,internet search,3.4
+3333,Gambling & Casinos,"casinos, hotels",3.4
+5168,Construction & Engineering,construction,3.4
+2410,Diversified,diversified,3.4
+9614,Logistics,"real estate, airport",3.4
+3428,Telecom,telecom,3.4
+1356,Gambling & Casinos,gambling software,3.4
+4752,Diversified,diversified,3.4
+3325,Finance and Investments,finance,3.4
+9582,Logistics,"real estate, airport",3.4
+6712,Healthcare,medical devices,3.4
+9716,Real Estate,real estate,3.4
+6727,Technology,navigation equipment,3.4
+9545,Technology,software,3.4
+2037,Metals & Mining,metals,3.4
+2910,Construction & Engineering,"engineering, construction",3.4
+9448,Energy,energy,3.4
+9152,Construction & Engineering,"engineering, construction",3.4
+7290,Fashion & Retail,retail,3.4
+1051,Construction & Engineering,construction,3.4
+4171,Technology,software,3.4
+4583,Logistics,"logistics, real estate",3.4
+6828,Fashion & Retail,"gas stations, retail",3.4
+6142,Manufacturing,chemicals,3.4
+1495,Food and Beverage,Campbell Soup,3.3
+3582,Finance and Investments,investments,3.3
+5374,Finance and Investments,investments,3.3
+9854,Manufacturing,aluminum products,3.3
+5325,Manufacturing,chemicals,3.3
+1413,Healthcare,medical equipment,3.3
+7089,Technology,semiconductors,3.3
+9141,Real Estate,real estate,3.3
+5463,Finance and Investments,real estate,3.3
+8754,Food and Beverage,flavorings,3.3
+5853,Real Estate,real estate,3.3
+2908,Real Estate,"hotels, motels",3.3
+8938,Real Estate,real estate,3.3
+5205,Media & Entertainment,cable television,3.3
+4525,Healthcare,medical equipment,3.3
+1409,Technology,LinkedIn,3.3
+1903,Metals & Mining,"mining, metals",3.3
+5606,Automotive,"auto dealers, investments",3.3
+4502,Finance and Investments,hedge funds,3.3
+4294,Fashion & Retail,retail,3.3
+8160,Energy,"oil, investments",3.3
+1539,Finance and Investments,"insurance, beverages",3.3
+4719,Gambling & Casinos,"casinos, property, energy",3.3
+9536,Real Estate,real estate,3.3
+1676,Manufacturing,paints,3.3
+8151,Service,airline,3.3
+7058,Media & Entertainment,"TV network, investments",3.2
+1625,Energy,energy,3.2
+6579,Healthcare,pharmaceuticals,3.2
+6814,Manufacturing,prosthetics,3.2
+9707,Service,logistics,3.2
+8132,Finance and Investments,hedge funds,3.2
+7582,Fashion & Retail,luxury goods,3.2
+8496,Finance and Investments,private equity,3.2
+8769,Finance and Investments,finance,3.2
+2524,Finance and Investments,banking,3.2
+5380,Fashion & Retail,retail,3.2
+8796,Energy,"oil & gas, investments",3.2
+9571,Automotive,U-Haul,3.2
+4632,Finance and Investments,investments,3.2
+1855,Finance and Investments,finance,3.2
+9447,Technology,drones,3.2
+9878,Finance and Investments,hedge funds,3.2
+6094,Automotive,tires,3.2
+8984,Technology,eBay,3.2
+7512,Diversified,"banking, shipping",3.2
+5707,Finance and Investments,investments,3.2
+5383,Finance and Investments,banking,3.2
+7883,Media & Entertainment,media,3.2
+7543,Fashion & Retail,luxury goods,3.2
+8068,Food and Beverage,restaurants,3.2
+2346,Technology,software,3.2
+7927,Finance and Investments,hedge funds,3.2
+5369,Fashion & Retail,"hair products, tequila",3.2
+5687,Real Estate,real estate,3.2
+2820,Food and Beverage,beer,3.2
+7348,Service,payroll services,3.2
+6050,Construction & Engineering,engineering,3.2
+9084,Technology,acoustic components,3.2
+3750,Gambling & Casinos,lotteries,3.2
+9672,Fashion & Retail,furniture retailing,3.2
+6072,Finance and Investments,banking,3.2
+4542,Finance and Investments,finance,3.2
+4558,Manufacturing,kitchen appliances,3.1
+4691,Diversified,conglomerate,3.1
+8501,Fashion & Retail,retail,3.1
+8654,Diversified,airlines,3.1
+9712,Diversified,diversified,3.1
+5307,Technology,software,3.1
+7655,Food and Beverage,Food & Beverage,3.1
+3592,Diversified,"construction equipment, media",3.1
+8257,Real Estate,"television, real estate",3.1
+4910,Technology,healthcare services,3.1
+4453,Gambling & Casinos,gambling,3.1
+9888,Food and Beverage,cheese,3.1
+4775,Metals & Mining,mining,3.1
+4472,Logistics,package delivery,3.1
+4608,Real Estate,real estate,3.1
+9037,Energy,"oil, real estate",3.1
+3796,Fashion & Retail,fashion retail,3.1
+6369,Healthcare,pharmaceuticals,3.1
+7149,Technology,Twitter,3.1
+8783,Media & Entertainment,online media,3.1
+3988,Real Estate,real estate,3.1
+1005,Real Estate,real estate,3.1
+5872,Real Estate,real estate,3.1
+7523,Diversified,pharmacies,3.1
+6836,Real Estate,real estate,3.1
+4007,Real Estate,real estate,3.0
+3554,Healthcare,hospitals,3.0
+1067,Service,"hotels, investments",3.0
+1053,Diversified,diversified,3.0
+6027,Construction & Engineering,"construction, pipes, banking",3.0
+4001,Fashion & Retail,online retail,3.0
+9424,Food and Beverage,Food & Beverage,3.0
+1958,Telecom,electronics,3.0
+9155,Food and Beverage,meat processing,3.0
+1673,Real Estate,real estate,3.0
+8434,Food and Beverage,AriZona Beverages,3.0
+2075,Real Estate,real estate,3.0
+6045,Gambling & Casinos,casinos,3.0
+1520,Technology,online payment service,3.0
+6754,Real Estate,real estate,3.0
+4740,Sports,New Orleans Saints,3.0
+8621,Food and Beverage,tobacco,3.0
+3440,Finance and Investments,financial services,3.0
+5245,Automotive,"automobiles, batteries",3.0
+3342,Finance and Investments,Investment Management,3.0
+9695,Healthcare,pharmaceuticals,3.0
+3816,Healthcare,pharmaceuticals,3.0
+3522,Energy,oil & gas,3.0
+3475,Healthcare,pharmaceuticals,3.0
+4400,Technology,venture capital,3.0
+6444,Technology,mobile payments,3.0
+8315,Manufacturing,lasers,3.0
+6482,Technology,"software, investments",3.0
+2462,Finance and Investments,Hedge funds,3.0
+1222,Logistics,trucking,3.0
+4667,Finance and Investments,investments,3.0
+3411,Technology,business software,2.9
+8674,Service,travel,2.9
+7341,Finance and Investments,"chemicals, investments",2.9
+3727,Fashion & Retail,drugstores,2.9
+5131,Food and Beverage,bakeries,2.9
+5277,Finance and Investments,"finance, diversified",2.9
+2622,Diversified,petrochemicals,2.9
+3697,Technology,Facebook,2.9
+7274,Technology,electronics components,2.9
+1991,Finance and Investments,hedge funds,2.9
+8023,Manufacturing,blinds,2.9
+2833,Healthcare,medical equipment,2.9
+3376,Diversified,"real estate, construction",2.9
+3275,Finance and Investments,finance,2.9
+6201,Finance and Investments,electronic trading,2.9
+7793,Real Estate,real estate,2.9
+3646,Technology,electronics components,2.9
+6378,Technology,online retail,2.9
+7048,Diversified,consumer goods,2.9
+5521,Real Estate,real estate,2.9
+4758,Finance and Investments,banking,2.9
+6562,Finance and Investments,"construction, investments",2.9
+9690,Food and Beverage,fishing,2.9
+8480,Healthcare,pharmaceuticals,2.9
+3764,Technology,electronics,2.9
+2049,Diversified,consumer goods,2.9
+3859,Fashion & Retail,sports apparel,2.9
+6639,Metals & Mining,"copper, education",2.9
+5313,Food and Beverage,beverages,2.9
+4962,Service,employment agency,2.9
+2452,Diversified,consumer goods,2.9
+6671,Diversified,consumer goods,2.9
+7490,Food and Beverage,poultry processing,2.9
+8464,Service,consulting,2.9
+5880,Healthcare,pharmaceuticals,2.9
+8637,Healthcare,pharmaceuticals,2.9
+5202,Diversified,consumer goods,2.9
+9294,Diversified,"online games, investments",2.8
+9710,Finance and Investments,investments,2.8
+7674,Finance and Investments,"hotels, investments",2.8
+7989,Fashion & Retail,Hermes,2.8
+6132,Real Estate,real estate,2.8
+6022,Finance and Investments,private equity,2.8
+4956,Food and Beverage,chewing gum,2.8
+7882,Media & Entertainment,TV broadcasting,2.8
+7955,Logistics,shipping,2.8
+7502,Finance and Investments,finance,2.8
+3833,Real Estate,"real estate, media",2.8
+3062,Diversified,art collection,2.8
+7708,Diversified,diversified,2.8
+4753,Telecom,telecom,2.8
+5934,Service,staffing & recruiting,2.8
+2900,Fashion & Retail,Gap,2.8
+3038,Manufacturing,petrochemicals,2.8
+4062,Food and Beverage,"soft drinks, diversified",2.8
+5351,Finance and Investments,private equity,2.8
+7155,Finance and Investments,private equity,2.8
+9371,Fashion & Retail,sportswear,2.8
+5126,Food and Beverage,Campbell Soup,2.8
+9667,Fashion & Retail,Gap,2.8
+2750,Diversified,conglomerate,2.8
+3276,Healthcare,medical products,2.8
+9989,Real Estate,real estate,2.8
+4284,Finance and Investments,investments,2.8
+4072,Healthcare,biotech,2.8
+6779,Media & Entertainment,"media, real estate",2.7
+4214,Food and Beverage,Starbucks,2.7
+3587,Diversified,"casinos, real estate",2.7
+2060,Service,security services,2.7
+3509,Diversified,diversified,2.7
+2385,Technology,web hosting,2.7
+7354,Diversified,diversified,2.7
+5297,Healthcare,dental implants,2.7
+8775,Automotive,U-Haul,2.7
+3130,Fashion & Retail,Retail,2.7
+9344,Fashion & Retail,fashion investments,2.7
+6785,Finance and Investments,finance,2.7
+9147,Fashion & Retail,nutrition and wellness products,2.7
+6291,Fashion & Retail,fashion,2.7
+7470,Real Estate,"real estate, plush toys",2.7
+7023,Media & Entertainment,TV shows,2.7
+1699,Real Estate,real estate services,2.7
+7476,Telecom,telecom,2.7
+4135,Diversified,diversified,2.7
+5541,Fashion & Retail,fashion retail,2.7
+4763,Construction & Engineering,"scaffolding, cement mixers",2.7
+2294,Technology,online services,2.7
+2918,Diversified,diversified,2.7
+4083,Diversified,"forestry, mining",2.7
+5412,Diversified,"hospitals, investments",2.7
+7941,Diversified,"art, electronics",2.7
+6180,Real Estate,shopping centers,2.7
+3821,Food and Beverage,Campbell Soup,2.7
+5233,Energy,pipelines,2.7
+4339,Diversified,"airports, investments",2.7
+7926,Manufacturing,manufacturing,2.7
+5088,Manufacturing,furniture,2.7
+3438,Finance and Investments,auto loans,2.7
+3137,Media & Entertainment,Netflix,2.7
+1218,Real Estate,real estate,2.7
+7985,Automotive,automobiles,2.7
+5095,Sports,Indianapolis Colts,2.7
+2476,Finance and Investments,insurance,2.6
+2702,Real Estate,real estate,2.6
+9130,Metals & Mining,steel production,2.6
+6829,Media & Entertainment,Bloomberg LP,2.6
+8492,Healthcare,hospitals,2.6
+7059,Technology,Facebook,2.6
+6766,Diversified,diversified,2.6
+3317,Diversified,"aluminum, diversified",2.6
+6506,Technology,software,2.6
+9890,Technology,touch screens,2.6
+3520,Finance and Investments,investment banking,2.6
+8777,Service,printing,2.6
+9224,Fashion & Retail,shoes,2.6
+6005,Energy,oil trading,2.6
+7610,Metals & Mining,"mining, banking, hotels",2.6
+2605,Fashion & Retail,Lululemon,2.6
+9194,Technology,Yahoo,2.6
+9798,Metals & Mining,"mining, commodities",2.6
+2396,Construction & Engineering,construction,2.6
+3811,Technology,electronics components,2.6
+1963,Real Estate,real estate,2.6
+8042,Healthcare,laboratory services,2.6
+5108,Logistics,logistics,2.6
+6853,Finance and Investments,hedge funds,2.6
+8840,Finance and Investments,investments,2.6
+5565,Diversified,diversified,2.6
+9436,Technology,online gaming,2.6
+8003,Finance and Investments,private equity,2.6
+1115,Construction & Engineering,"cement, diversified",2.6
+3576,Telecom,mobile phones,2.6
+9481,Finance and Investments,investments,2.6
+7658,Media & Entertainment,"media, investments",2.6
+2402,Finance and Investments,investments,2.6
+3195,Healthcare,pharmaceuticals,2.6
+9784,Healthcare,hospitals,2.6
+5469,Service,self storage,2.6
+8292,Energy,energy generation,2.6
+1152,Real Estate,real estate,2.6
+2085,Healthcare,pharmaceuticals,2.6
+8889,Real Estate,real estate,2.6
+5317,Diversified,"palm oil, property",2.6
+5452,Manufacturing,flooring,2.5
+5788,Manufacturing,manufacturing,2.5
+7953,Real Estate,real estate,2.5
+5385,Real Estate,real estate,2.5
+2393,Real Estate,WeWork,2.5
+8393,Real Estate,real estate,2.5
+6743,Food and Beverage,investments,2.5
+1009,Sports,"billboards, Anaheim Angels",2.5
+9070,Metals & Mining,"mining, commodities",2.5
+7988,Media & Entertainment,media,2.5
+2164,Media & Entertainment,media,2.5
+7796,Finance and Investments,hedge funds,2.5
+1437,Healthcare,pharmaceuticals,2.5
+5976,Gambling & Casinos,"casinos, hotels",2.5
+5357,Healthcare,generic drugs,2.5
+1783,Finance and Investments,investments,2.5
+4520,Service,ticketing service,2.5
+3535,Technology,Microsoft,2.5
+8574,Finance and Investments,venture capital,2.5
+1976,Manufacturing,hygiene products,2.5
+4533,Construction & Engineering,construction,2.5
+4807,Fashion & Retail,H&M,2.5
+8890,Finance and Investments,"Facebook, Palantir",2.5
+6078,Sports,San Francisco 49ers,2.5
+5819,Technology,technology,2.5
+3647,Healthcare,pharmaceuticals,2.5
+9861,Finance and Investments,investment research,2.5
+6239,Manufacturing,hygiene products,2.5
+9044,Real Estate,real estate,2.5
+7738,Media & Entertainment,"circus, live entertainment",2.5
+2312,Fashion & Retail,fashion retailer,2.5
+3577,Food and Beverage,Diversified,2.5
+9032,Energy,"oil, investments",2.5
+8613,Food and Beverage,vodka,2.5
+4033,Energy,oil & gas,2.5
+4147,Finance and Investments,banking,2.5
+3807,Automotive,"art, car dealerships",2.5
+6007,Automotive,auto parts,2.5
+6697,Manufacturing,auto parts,2.5
+7811,Gambling & Casinos,online gambling,2.5
+4568,Manufacturing,chemicals,2.5
+6783,Finance and Investments,banking,2.5
+7005,Energy,"oil, investments",2.5
+7489,Food and Beverage,spirits,2.5
+9100,Diversified,diversified,2.5
+3205,Real Estate,real estate,2.5
+6968,Finance and Investments,hedge funds,2.5
+6081,Fashion & Retail,cosmetics,2.5
+6664,Manufacturing,synthetic gloves,2.5
+2645,Fashion & Retail,cosmetics,2.5
+9906,Gambling & Casinos,casinos,2.5
+1729,Sports,sports,2.5
+8744,Gambling & Casinos,pachinko parlors,2.5
+9330,Fashion & Retail,consumer goods,2.5
+2248,Finance and Investments,investments,2.5
+2893,Fashion & Retail,"Wal-Mart, logistics",2.4
+7362,Fashion & Retail,retail,2.4
+9275,Metals & Mining,mining,2.4
+9779,Fashion & Retail,consumer goods,2.4
+8303,Fashion & Retail,consumer goods,2.4
+4932,Fashion & Retail,consumer goods,2.4
+6629,Fashion & Retail,consumer goods,2.4
+5139,Fashion & Retail,consumer goods,2.4
+3950,Fashion & Retail,consumer goods,2.4
+8687,Service,"hotels, investments",2.4
+5781,Finance and Investments,"hotels, investments",2.4
+8103,Healthcare,pharmaceuticals,2.4
+4128,Healthcare,pharmaceuticals,2.4
+5505,Diversified,diversified,2.4
+9574,Fashion & Retail,consumer goods,2.4
+1317,Sports,"real estate, Los Angeles Chargers",2.4
+7042,Real Estate,real estate,2.4
+9662,Automotive,auto repair,2.4
+1952,Service,education,2.4
+5883,Finance and Investments,private equity,2.4
+2222,Fashion & Retail,retail,2.4
+5519,Service,education,2.4
+9514,Finance and Investments,investments,2.4
+5109,Media & Entertainment,media,2.4
+5394,Fashion & Retail,hardware stores,2.4
+6117,Technology,software,2.4
+7733,Finance and Investments,banking,2.4
+7487,Real Estate,"real estate, investments",2.4
+3241,Real Estate,real estate,2.4
+4121,Food and Beverage,liquor,2.4
+2933,Food and Beverage,Subway sandwich shops,2.4
+9059,Real Estate,real estate,2.4
+6310,Manufacturing,flavorings,2.4
+8417,Fashion & Retail,drugstores,2.4
+6884,Food and Beverage,orange juice,2.4
+4361,Manufacturing,cement,2.4
+7789,Food and Beverage,consumer goods,2.4
+9358,Finance and Investments,investments,2.4
+7712,Finance and Investments,private equity,2.4
+2237,Fashion & Retail,supermarkets,2.4
+5450,Finance and Investments,banking,2.4
+1388,Manufacturing,aluminum,2.4
+7416,Fashion & Retail,"tobacco distribution, retail",2.4
+4026,Finance and Investments,investment,2.4
+1666,Food and Beverage,retail,2.4
+5216,Real Estate,real estate,2.4
+1292,Finance and Investments,private equity,2.4
+2860,Automotive,automobiles,2.4
+6150,Real Estate,real estate,2.4
+7278,Real Estate,real estate,2.4
+7824,Technology,venture capital,2.3
+6336,Real Estate,"real estate, retail",2.3
+1343,Technology,e-commerce,2.3
+2157,Construction & Engineering,"construction, real estate",2.3
+4333,Finance and Investments,investments,2.3
+9526,Finance and Investments,textiles,2.3
+4967,Metals & Mining,"mining, metals",2.3
+2640,Food and Beverage,pet food,2.3
+5736,Diversified,diversified,2.3
+2501,Finance and Investments,TD Ameritrade,2.3
+1367,Fashion & Retail,drugstores,2.3
+9440,Sports,Washington Redskins,2.3
+2098,Manufacturing,train cars,2.3
+3843,Food and Beverage,food processing,2.3
+2516,Manufacturing,furniture,2.3
+6827,Fashion & Retail,fashion retail,2.3
+1907,Finance and Investments,financial services,2.3
+4514,Real Estate,tobacco,2.3
+4069,Healthcare,pharmaceuticals,2.3
+6930,Logistics,logistics,2.3
+9317,Technology,Computer Associates,2.3
+6104,Healthcare,biotech,2.3
+7553,Finance and Investments,finance,2.3
+5300,Healthcare,pharmaceuticals,2.3
+6280,Logistics,VistaJet,2.3
+4468,Real Estate,real estate,2.3
+6125,Diversified,diversified,2.3
+8426,Manufacturing,Detergents,2.3
+7422,Fashion & Retail,truck stops,2.3
+1905,Healthcare,pharmaceuticals,2.3
+4875,Energy,oil,2.3
+7359,Finance and Investments,investments,2.3
+2395,Metals & Mining,"mining, metals",2.3
+7190,Healthcare,drug distribution,2.2
+2778,Real Estate,real estate,2.2
+8579,Fashion & Retail,retail,2.2
+5184,Fashion & Retail,jewelry,2.2
+8230,Food and Beverage,beer,2.2
+4964,Finance and Investments,"banking, credit cards",2.2
+2832,Real Estate,shopping centers,2.2
+5569,Technology,health IT,2.2
+5197,Technology,optical components,2.2
+4847,Finance and Investments,investments,2.2
+4802,Technology,Groupon,2.2
+4493,Finance and Investments,finance,2.2
+9074,Finance and Investments,banking,2.2
+7096,Real Estate,real estate,2.2
+8966,Logistics,shipping,2.2
+6576,Media & Entertainment,cable television,2.2
+8331,Diversified,diversified,2.2
+2571,Real Estate,real estate,2.2
+2197,Real Estate,real estate,2.2
+9242,Food and Beverage,bakery chain,2.2
+8473,Media & Entertainment,entertainment,2.2
+7326,Fashion & Retail,retail,2.2
+3559,Manufacturing,plastics,2.2
+1107,Healthcare,dental products,2.2
+8383,Real Estate,Real Estate,2.2
+5786,Automotive,automobiles,2.2
+6047,Finance and Investments,private equity,2.2
+7280,Finance and Investments,money management,2.2
+1484,Diversified,Diversified,2.2
+8018,Sports,"casinos, mixed martial arts",2.2
+8499,Real Estate,real estate,2.2
+8115,Finance and Investments,banking,2.2
+2535,Diversified,"petroleum, diversified",2.2
+6228,Diversified,Diversified,2.2
+4428,Fashion & Retail,Columbia Sportswear,2.2
+8792,Food and Beverage,beer,2.2
+9588,Real Estate,real estate,2.2
+5067,Finance and Investments,finance,2.2
+5893,Finance and Investments,private equity,2.2
+6069,Healthcare,"hospitals, health care",2.2
+9146,Finance and Investments,banking,2.2
+7250,Finance and Investments,hedge fund,2.2
+7933,Sports,"casinos, mixed martial arts",2.2
+3133,Service,cruises,2.2
+8932,Food and Beverage,"Nutella, chocolates",2.2
+7724,Diversified,investments,2.2
+1929,Media & Entertainment,DirecTV,2.2
+4446,Technology,SAP,2.2
+1701,Service,landscape architecture,2.2
+3867,Diversified,diversified,2.2
+4870,Manufacturing,electrical equipment,2.2
+3712,Fashion & Retail,shoes,2.2
+4584,Automotive,used cars,2.2
+7901,Metals & Mining,"mining, steel",2.2
+4060,Technology,software services,2.1
+3412,Real Estate,real estate,2.1
+6417,Diversified,diversified,2.1
+8758,Healthcare,Roche Holding,2.1
+3315,Real Estate,real estate,2.1
+3788,Technology,software,2.1
+4606,Logistics,aircraft leasing,2.1
+4156,Food and Beverage,"Dole, real estate",2.1
+5910,Manufacturing,"manufacturing, investment",2.1
+3886,Food and Beverage,consumer goods,2.1
+3215,Energy,investments,2.1
+1451,Manufacturing,valve manufacturing,2.1
+1213,Metals & Mining,commodities,2.1
+4983,Manufacturing,solar panel materials,2.1
+2600,Healthcare,pharmaceuticals,2.1
+2055,Finance and Investments,insurance,2.1
+7805,Technology,"venture capital, Google",2.1
+8555,Fashion & Retail,cosmetics,2.1
+6454,Real Estate,real estate,2.1
+1411,Real Estate,real estate,2.1
+7360,Finance and Investments,"real estate, investments",2.1
+8970,Real Estate,real estate,2.1
+3354,Manufacturing,furniture,2.1
+1839,Media & Entertainment,"TV, movie production",2.1
+1643,Technology,business software,2.1
+2013,Diversified,conglomerate,2.1
+1756,Food and Beverage,nutrition supplements,2.1
+3127,Food and Beverage,drugstores,2.1
+8737,Technology,cooking appliances,2.1
+8823,Healthcare,medical devices,2.1
+5119,Diversified,diversified,2.1
+8725,Manufacturing,paper & related products,2.1
+6121,Sports,sports team,2.1
+3319,Diversified,"forestry, mining",2.1
+5043,Food and Beverage,frozen foods,2.1
+1062,Energy,"oil, gas",2.1
+1199,Finance and Investments,investments,2.1
+1795,Food and Beverage,soy sauce,2.1
+2304,Metals & Mining,"mining, metals",2.1
+7226,Fashion & Retail,hair care products,2.1
+2327,Media & Entertainment,television,2.1
+7565,Real Estate,hotels,2.1
+8162,Energy,Getty Oil,2.1
+6933,Fashion & Retail,retail stores,2.1
+1843,Real Estate,hotels,2.1
+8958,Finance and Investments,private equity,2.1
+6548,Real Estate,real estate,2.1
+4966,Fashion & Retail,drugstores,2.1
+9175,Finance and Investments,Investment,2.1
+1548,Finance and Investments,accounting services,2.1
+3374,Manufacturing,palm oil,2.1
+3271,Real Estate,real estate,2.1
+3016,Food and Beverage,food processing,2.1
+1614,Food and Beverage,soft drinks,2.1
+5097,Construction & Engineering,construction,2.1
+1056,Real Estate,real estate,2.1
+5983,Real Estate,hotels,2.1
+3439,Real Estate,"real estate, investments, logistics",2.1
+4364,Diversified,diversified,2.0
+7022,Real Estate,real estate,2.0
+5035,Automotive,tires,2.0
+4120,Finance and Investments,investments,2.0
+8990,Finance and Investments,motorcycle loans,2.0
+5102,Construction & Engineering,construction,2.0
+5155,Finance and Investments,private equity,2.0
+6316,Food and Beverage,Cargill,2.0
+8262,Food and Beverage,"agriculture, land",2.0
+4671,Fashion & Retail,shoes,2.0
+4376,Automotive,tractors,2.0
+4922,Real Estate,real estate,2.0
+3598,Finance and Investments,private equity,2.0
+1193,Healthcare,pharmaceuticals,2.0
+7324,Finance and Investments,finance,2.0
+9967,Telecom,telecom equipment,2.0
+7629,Telecom,"telecom, investments",2.0
+9212,Manufacturing,"steel, autoparts",2.0
+7238,Manufacturing,hydraulic machinery,2.0
+8173,Energy,natural gas distribution,2.0
+2598,Media & Entertainment,Bloomberg LP,2.0
+1308,Gambling & Casinos,video games,2.0
+6113,Healthcare,medical equipment,2.0
+4963,Real Estate,real estate,2.0
+8482,Manufacturing,tires,2.0
+3778,Energy,"oil & gas, investments",2.0
+3263,Food and Beverage,energy drinks,2.0
+5694,Food and Beverage,Cargill,2.0
+4679,Fashion & Retail,cosmetics,2.0
+7589,Real Estate,"utilities, real estate",2.0
+6314,Food and Beverage,Cargill,2.0
+3676,Finance and Investments,investments,2.0
+8122,Food and Beverage,energy drinks,2.0
+8581,Sports,Philadelphia Eagles,2.0
+7420,Healthcare,pharmaceuticals,2.0
+7836,Diversified,diversified,2.0
+8548,Healthcare,medical technology,2.0
+3468,Energy,coal,2.0
+9661,Technology,"Netscape, investments",2.0
+9944,Real Estate,real estate,2.0
+6899,Food and Beverage,consumer goods,2.0
+2417,Finance and Investments,"supermarkets, investments",2.0
+8203,Healthcare,medical technology,2.0
+4759,Healthcare,medical technology,2.0
+3735,Healthcare,pharmaceuticals,2.0
+3533,Manufacturing,"metals, mining",2.0
+2732,Diversified,investments,2.0
+3136,Diversified,pharmaceuticals,2.0
+3515,Food and Beverage,Slim-Fast,2.0
+4444,Diversified,diversified,2.0
+5613,Healthcare,biotech,2.0
+9640,Food and Beverage,Cargill,2.0
+5837,Energy,oil & gas,2.0
+1954,Automotive,auto parts,2.0
+8468,Automotive,auto distribution,2.0
+6542,Finance and Investments,hedge funds,2.0
+5419,Construction & Engineering,engineering,2.0
+9530,Diversified,"food products, entertainment",2.0
+3162,Finance and Investments,hedge funds,2.0
+9485,Finance and Investments,private equity,2.0
+9312,Healthcare,pharmaceuticals,2.0
+1032,Service,"computer services, tourism",2.0
+7984,Healthcare,pharmaceuticals,2.0
+8432,Diversified,banking,2.0
+1084,Finance and Investments,insurance,2.0
+2400,Food and Beverage,frozen foods,2.0
+1743,Finance and Investments,insurance,2.0
+2939,Fashion & Retail,consumer goods,2.0
+2787,Healthcare,pharmaceuticals,2.0
+2225,Fashion & Retail,winter jackets,1.9
+9430,Fashion & Retail,drugstores,1.9
+3429,Manufacturing,petrochemicals,1.9
+2331,Technology,software,1.9
+1759,Finance and Investments,investments,1.9
+1369,Real Estate,real estate,1.9
+2009,Diversified,processed milk,1.9
+2799,Fashion & Retail,sports apparel,1.9
+8088,Finance and Investments,investments,1.9
+3089,Manufacturing,hand tools,1.9
+6898,Technology,Twitter,1.9
+1879,Service,"hotels, investments",1.9
+8527,Metals & Mining,steel smelting,1.9
+5439,Diversified,valves,1.9
+1169,Food and Beverage,fish farming,1.9
+8625,Fashion & Retail,footwear,1.9
+5094,Diversified,fertilizer,1.9
+4929,Finance and Investments,investments,1.9
+6804,Technology,software,1.9
+9601,Fashion & Retail,"retail, investments",1.9
+2295,Energy,batteries,1.9
+5256,Fashion & Retail,supermarket,1.9
+5661,Diversified,investments,1.9
+3626,Real Estate,real estate,1.9
+3872,Manufacturing,"vacuums, home cleaning products",1.9
+9862,Service,education,1.9
+4302,Finance and Investments,mutual funds,1.9
+4241,Diversified,diversified,1.9
+3080,Technology,software services,1.9
+8781,Finance and Investments,investments,1.9
+9949,Diversified,diversified,1.9
+5658,Finance and Investments,"metals, banking, fertilizers",1.9
+6777,Diversified,"engineering, energy, construction",1.9
+5029,Manufacturing,chemicals,1.9
+4935,Manufacturing,fasteners,1.9
+7108,Fashion & Retail,retail,1.9
+8566,Logistics,shipping,1.9
+8299,Diversified,diversified,1.9
+2347,Finance and Investments,banking,1.9
+2277,Finance and Investments,hedge funds,1.9
+9403,Manufacturing,aviation,1.9
+6118,Fashion & Retail,fashion retail,1.9
+9325,Healthcare,pharmaceuticals,1.9
+8587,Finance and Investments,investments,1.9
+7427,Fashion & Retail,retail,1.9
+9933,Fashion & Retail,art collection,1.9
+2572,Real Estate,"real estate, education",1.9
+9522,Manufacturing,petrochemicals,1.9
+5957,Manufacturing,petrochemicals,1.9
+2543,Diversified,"computer services, tourism",1.9
+3801,Metals & Mining,cobalt mining,1.9
+7263,Fashion & Retail,fashion retail,1.9
+2074,Manufacturing,"vacuums, cleaning products",1.9
+6108,Finance and Investments,banking,1.9
+3526,Automotive,automotive,1.9
+5356,Service,"hotels, investments",1.8
+6041,Finance and Investments,finance,1.8
+6176,Healthcare,pharmaceuticals,1.8
+5638,Service,Comcast,1.8
+9192,Finance and Investments,finance,1.8
+8215,Media & Entertainment,movie theaters,1.8
+5093,Fashion & Retail,Estee Lauder,1.8
+1226,Energy,oil & gas,1.8
+3901,Technology,software,1.8
+2406,Healthcare,medical devices,1.8
+3186,Healthcare,pharmaceuticals,1.8
+9841,Technology,software,1.8
+9717,Finance and Investments,investments,1.8
+2829,Real Estate,real estate,1.8
+9000,Service,hotels,1.8
+3926,Automotive,auto parts,1.8
+6249,Automotive,auto parts,1.8
+1128,Manufacturing,metals. coal,1.8
+9313,Automotive,automotive,1.8
+1556,Food and Beverage,greek yogurt,1.8
+1592,Manufacturing,building materials,1.8
+5397,Healthcare,pharmaceuticals,1.8
+2699,Healthcare,medical devices,1.8
+8307,Real Estate,real estate,1.8
+1146,Food and Beverage,beverages,1.8
+7187,Finance and Investments,investments,1.8
+6703,Healthcare,healthcare,1.8
+7706,Metals & Mining,"mining, commodities",1.8
+9534,Real Estate,real estate,1.8
+9280,Manufacturing,paper manufacturing,1.8
+6549,Finance and Investments,Berkshire Hathaway,1.8
+3040,Fashion & Retail,real estate,1.8
+8312,Real Estate,real estate,1.8
+2065,Healthcare,pharmaceuticals,1.8
+4367,Energy,oil,1.8
+6565,Finance and Investments,banking,1.8
+2119,Healthcare,medical technology,1.8
+2066,Healthcare,medical technology,1.8
+1717,Healthcare,medical technology,1.8
+9248,Food and Beverage,consumer goods,1.8
+6788,Finance and Investments,asset management,1.8
+6848,Manufacturing,chemicals,1.8
+5856,Finance and Investments,investments,1.8
+7852,Manufacturing,"shipbuilding, industrial machines",1.8
+7046,Service,hotels,1.8
+2546,Finance and Investments,finance,1.8
+3564,Food and Beverage,fast food,1.8
+5147,Technology,software services,1.8
+7626,Construction & Engineering,construction,1.8
+7425,Sports,"Nascar, racing",1.8
+4394,Energy,oil & gas,1.8
+1298,Diversified,"energy, chemicals",1.8
+2244,Fashion & Retail,shoes,1.8
+5084,Manufacturing,shipbuilding,1.8
+4684,Manufacturing,electric components,1.8
+9499,Diversified,diversified,1.7
+5563,Manufacturing,manufacturing,1.7
+3177,Real Estate,real estate,1.7
+7753,Finance and Investments,investment,1.7
+8669,Finance and Investments,Berkshire Hathaway,1.7
+2706,Logistics,Transportation,1.7
+6477,Diversified,diversified,1.7
+1341,Energy,oil refinery,1.7
+9262,Healthcare,medical patents,1.7
+4940,Automotive,automobiles,1.7
+7634,Sports,wrestling,1.7
+3459,Real Estate,WeWork,1.7
+8363,Telecom,telecom,1.7
+6615,Food and Beverage,consumer goods,1.7
+4190,Food and Beverage,"coffee, shipping",1.7
+1760,Manufacturing,LED lighting,1.7
+3877,Manufacturing,paper manufacturing,1.7
+3494,Energy,oil trading,1.7
+2247,Manufacturing,sneakers,1.7
+3896,Real Estate,real estate,1.7
+4166,Media & Entertainment,online media,1.7
+1186,Finance and Investments,investments,1.7
+8378,Automotive,cars,1.7
+4011,Manufacturing,construction equipment,1.7
+6846,Logistics,logistics,1.7
+6876,Diversified,"food, art",1.7
+2239,Healthcare,medical equipment,1.7
+3116,Real Estate,real estate,1.7
+7371,Manufacturing,electrical equipment,1.7
+2945,Real Estate,real estate,1.7
+1290,Logistics,"transport, engineering, real estate",1.7
+8778,Fashion & Retail,pet food,1.7
+7527,Real Estate,investments,1.7
+2214,Finance and Investments,hedge funds,1.7
+2657,Metals & Mining,"gold, coal mining",1.7
+6195,Service,financial technology,1.7
+8016,Metals & Mining,steel,1.7
+2619,Diversified,diversified,1.7
+7932,Technology,financial information,1.7
+3426,Real Estate,real estate,1.7
+4024,Real Estate,real estate,1.7
+8991,Fashion & Retail,luxury goods,1.7
+1767,Manufacturing,machine tools,1.7
+7291,Fashion & Retail,luxury goods,1.7
+1010,Fashion & Retail,luxury goods,1.7
+3625,Fashion & Retail,fashion retail,1.7
+5629,Gambling & Casinos,casinos,1.7
+8507,Food and Beverage,meat processing,1.7
+4027,Healthcare,pharmaceuticals,1.7
+2227,Technology,eletronics,1.7
+5678,Logistics,package delivery,1.7
+2764,Fashion & Retail,luxury goods,1.7
+3602,Healthcare,medical technology,1.7
+8972,Manufacturing,chemicals,1.7
+8380,Automotive,auto parts,1.7
+4028,Metals & Mining,mining,1.7
+5531,Real Estate,real estate,1.7
+4896,Diversified,diversified,1.7
+7207,Media & Entertainment,TV broadcasting,1.7
+9929,Finance and Investments,"banking, development",1.7
+7876,Finance and Investments,security,1.7
+5023,Finance and Investments,investment banking,1.7
+4077,Technology,messaging app,1.7
+6382,Manufacturing,machine tools,1.7
+1926,Service,Gap,1.7
+8424,Real Estate,real estate,1.7
+7458,Fashion & Retail,Gap,1.7
+4767,Finance and Investments,hedge funds,1.7
+6817,Diversified,manufacturing,1.7
+4973,Energy,"oil, investments",1.7
+1328,Diversified,diversified,1.7
+8589,Automotive,auto parts,1.7
+8329,Manufacturing,chemicals,1.7
+2773,Energy,coal,1.7
+2505,Metals & Mining,coal,1.7
+2937,Energy,"oil & gas, investments",1.7
+5478,Healthcare,pharmaceuticals,1.7
+9221,Real Estate,real estate,1.7
+5444,Diversified,"tourism, construction",1.7
+8211,Real Estate,real estate,1.7
+7071,Technology,information technology,1.7
+4611,Finance and Investments,insurance,1.7
+2270,Fashion & Retail,retail,1.7
+4806,Healthcare,Pharmaceuticals,1.6
+2591,Technology,Facebook,1.6
+7904,Technology,online retail,1.6
+3037,Energy,"oil, fertilizers",1.6
+3665,Technology,Pinterest,1.6
+2301,Fashion & Retail,H&M,1.6
+5824,Finance and Investments,hedge funds,1.6
+6651,Manufacturing,chemicals,1.6
+7749,Finance and Investments,finance,1.6
+6483,Energy,oil refinery,1.6
+5982,Metals & Mining,steel pipes,1.6
+1890,Fashion & Retail,H&M,1.6
+6644,Fashion & Retail,H&M,1.6
+9495,Finance and Investments,investments,1.6
+3351,Manufacturing,appliances,1.6
+3661,Technology,software,1.6
+8546,Service,fine jewelry,1.6
+8082,Logistics,transportation,1.6
+5670,Manufacturing,chemicals,1.6
+3093,Telecom,telecoms,1.6
+4926,Fashion & Retail,retail,1.6
+4628,Technology,lighting,1.6
+7134,Food and Beverage,Campbell Soup,1.6
+5060,Food and Beverage,agribusiness,1.6
+9359,Manufacturing,polyester,1.6
+1077,Diversified,"apparel, real estate",1.6
+1630,Fashion & Retail,fashion retail,1.6
+9054,Metals & Mining,mining,1.6
+1678,Healthcare,health clinics,1.6
+1595,Diversified,"real estate, retail",1.6
+8460,Finance and Investments,banking,1.6
+1230,Diversified,"internet, auto parts",1.6
+7253,Real Estate,real estate,1.6
+6300,Automotive,auto parts,1.6
+7163,Manufacturing,electronics,1.6
+3544,Technology,software,1.6
+1485,Food and Beverage,"food, beverages",1.6
+2911,Food and Beverage,"food, beverages",1.6
+7931,Food and Beverage,"food, beverages",1.6
+6808,Food and Beverage,"food, beverages",1.6
+6936,Diversified,"real estate, oil, cars, sports",1.6
+1525,Fashion & Retail,fashion,1.6
+7854,Diversified,"steel, diversified",1.6
+2057,Technology,business software,1.6
+3655,Diversified,diversified,1.6
+7146,Finance and Investments,finance,1.6
+5538,Logistics,package delivery,1.6
+7520,Fashion & Retail,retail,1.6
+2755,Diversified,"energy, banking, construction",1.6
+8387,Technology,photo sharing app,1.6
+2851,Finance and Investments,mutual funds,1.6
+4790,Finance and Investments,hedge funds,1.6
+7312,Finance and Investments,insurance,1.6
+8924,Fashion & Retail,retail,1.6
+8414,Finance and Investments,"banking, insurance",1.6
+3090,Manufacturing,air coolers,1.6
+7592,Finance and Investments,hedge funds,1.6
+1033,Manufacturing,hearing aids,1.6
+5668,Diversified,"hotels, diversified",1.6
+1589,Fashion & Retail,"retail, investments",1.6
+5122,Fashion & Retail,consumer goods,1.6
+4355,Technology,internet security,1.6
+1345,Technology,online retail,1.6
+9493,Diversified,"real estate, manufacturing",1.6
+9814,Finance and Investments,electronic trading,1.6
+2754,Finance and Investments,hedge funds,1.6
+7099,Healthcare,pharmaceuticals,1.6
+2242,Energy,oil services,1.6
+2661,Healthcare,pharmaceuticals,1.6
+9578,Technology,IT provider,1.6
+8052,Fashion & Retail,department stores,1.6
+1351,Finance and Investments,Sears,1.6
+8056,Technology,social network,1.6
+1725,Sports,"Charlotte Hornets, endorsements",1.6
+2220,Finance and Investments,money management,1.6
+3280,Gambling & Casinos,online games,1.6
+3445,Manufacturing,"elevators, escalators",1.6
+9240,Service,EasyJet,1.6
+4892,Finance and Investments,private equity,1.6
+1229,Food and Beverage,salsa,1.6
+5911,Fashion & Retail,consumer goods,1.6
+4039,Technology,e-commerce,1.6
+2966,Finance and Investments,money management,1.6
+9387,Energy,oil refining,1.6
+8827,Food and Beverage,beverages,1.5
+9318,Service,"hotels, investments",1.5
+5986,Healthcare,pharmaceuticals,1.5
+5515,Diversified,processed milk,1.5
+7434,Finance and Investments,money management,1.5
+5123,Finance and Investments,hedge funds,1.5
+1513,Media & Entertainment,"media, tech",1.5
+9674,Media & Entertainment,publishing,1.5
+7003,Technology,online games,1.5
+3441,Fashion & Retail,Under Armour,1.5
+1220,Real Estate,real estate,1.5
+1440,Real Estate,shopping malls,1.5
+3323,Manufacturing,aerospace,1.5
+7166,Manufacturing,aerospace,1.5
+8821,Real Estate,real estate,1.5
+4904,Diversified,diversified,1.5
+7752,Finance and Investments,investments,1.5
+1889,Finance and Investments,art,1.5
+9537,Fashion & Retail,apparel retailer,1.5
+9267,Food and Beverage,alcohol,1.5
+5287,Fashion & Retail,cosmetics,1.5
+7097,Diversified,"oil, banking",1.5
+9120,Manufacturing,agrochemicals,1.5
+3461,Automotive,auto parts,1.5
+9726,Fashion & Retail,e-commerce,1.5
+4610,Real Estate,real estate,1.5
+6343,Fashion & Retail,apparel,1.5
+5247,Real Estate,real estate,1.5
+4274,Energy,energy services,1.5
+6282,Real Estate,real estate,1.5
+7638,Real Estate,real estate,1.5
+6881,Media & Entertainment,publishing,1.5
+6962,Media & Entertainment,search engine,1.5
+4902,Real Estate,real estate,1.5
+2940,Healthcare,healthcare,1.5
+4942,Manufacturing,manufacturing,1.5
+1698,Service,outsourcing,1.5
+6707,Diversified,"insurance, NFL team",1.5
+3572,Logistics,logistics,1.5
+6982,Finance and Investments,online lending,1.5
+6248,Food and Beverage,packaged foods,1.5
+5512,Manufacturing,"textiles, electronics",1.5
+1619,Technology,Instagram,1.5
+3013,Energy,coal,1.5
+9592,Food and Beverage,Publix supermarkets,1.5
+2040,Fashion & Retail,supermarkets,1.5
+2235,Media & Entertainment,video games,1.5
+1384,Diversified,"pharmaceuticals, diversified",1.5
+9630,Diversified,"pharmaceuticals, diversified",1.5
+7678,Diversified,investments,1.5
+3629,Diversified,investments,1.5
+6139,Diversified,diversified,1.5
+5434,Media & Entertainment,publishing,1.5
+1028,Telecom,communications equipment,1.5
+9515,Healthcare,pharmaceuticals,1.5
+2053,Diversified,diversified,1.5
+8384,Diversified,"mining, banking",1.5
+1626,Technology,online dating,1.5
+6286,Fashion & Retail,jewelry,1.5
+5196,Fashion & Retail,shoes,1.5
+6676,Fashion & Retail,shoes,1.5
+7691,Fashion & Retail,shoes,1.5
+9623,Energy,oil,1.5
+2609,Diversified,"hospitals, investments",1.5
+8884,Finance and Investments,investments,1.5
+7739,Manufacturing,chemicals,1.5
+3262,Automotive,Ford Motor,1.5
+5263,Diversified,diversified,1.5
+8478,Fashion & Retail,beauty products,1.5
+6519,Food and Beverage,food,1.5
+4484,Healthcare,pharmaceuticals,1.5
+3934,Construction & Engineering,"construction, investments",1.5
+6472,Automotive,automobiles,1.5
+6895,Technology,online games,1.5
+5299,Manufacturing,manufacturing,1.5
+6018,Manufacturing,glass,1.5
+4924,Food and Beverage,agriculture,1.5
+3039,Real Estate,real estate,1.5
+3879,Finance and Investments,investments,1.5
+1998,Fashion & Retail,cosmetics,1.5
+1533,Manufacturing,auto parts,1.5
+6973,Finance and Investments,"insurance, investments",1.5
+5882,Logistics,logistics,1.5
+1250,Media & Entertainment,amusement parks,1.5
+2339,Real Estate,real estate,1.5
+7888,Real Estate,real estate,1.5
+8809,Real Estate,transportation,1.5
+1083,Manufacturing,"elevators, escalators",1.5
+7544,Fashion & Retail,Urban Outfitters,1.5
+4325,Energy,"oil & gas, investments",1.4
+9236,Fashion & Retail,supermarkets,1.4
+2444,Fashion & Retail,luxury goods,1.4
+8665,Fashion & Retail,luxury goods,1.4
+4707,Healthcare,health care,1.4
+4447,Sports,sports teams,1.4
+1237,Energy,petrochemicals,1.4
+7630,Real Estate,real estate,1.4
+8300,Technology,robotics,1.4
+6938,Fashion & Retail,retail,1.4
+8936,Media & Entertainment,computer games,1.4
+2116,Metals & Mining,"steel pipes, diversified",1.4
+8704,Fashion & Retail,fashion retail,1.4
+3850,Real Estate,real estate,1.4
+2978,Energy,"sugar, ethanol",1.4
+1263,Finance and Investments,investments,1.4
+2763,Technology,software services,1.4
+9253,Manufacturing,power equipment,1.4
+7451,Fashion & Retail,"real estate, retail",1.4
+5371,Telecom,telecom,1.4
+2831,Diversified,diversified,1.4
+3041,Media & Entertainment,"cable TV, investments",1.4
+6334,Metals & Mining,investments,1.4
+4865,Technology,Manufacturing,1.4
+3854,Manufacturing,palm oil,1.4
+7895,Real Estate,hotels,1.4
+9957,Finance and Investments,cryptocurrency,1.4
+8385,Service,education,1.4
+9593,Healthcare,pharmaceuticals,1.4
+9203,Diversified,diversified,1.4
+2432,Healthcare,pharmaceuticals,1.4
+9271,Manufacturing,conglomerate,1.4
+9819,Manufacturing,chemicals,1.4
+4639,Food and Beverage,wine,1.4
+2936,Manufacturing,electronic components,1.4
+9008,Technology,online games,1.4
+5637,Finance and Investments,"precious metals, real estate",1.4
+5688,Food and Beverage,beer,1.4
+2370,Manufacturing,metal processing,1.4
+5898,Technology,software,1.4
+5555,Finance and Investments,finance,1.4
+3645,Energy,natural gas,1.4
+9858,Energy,natural gas,1.4
+6781,Diversified,conglomerate,1.4
+1380,Telecom,telecom services,1.4
+3930,Automotive,auto parts,1.4
+3447,Metals & Mining,steel,1.4
+5907,Telecom,telecom,1.4
+2760,Automotive,auto dealerships,1.4
+4678,Metals & Mining,steel,1.4
+9061,Real Estate,real estate,1.4
+8330,Manufacturing,toys,1.4
+8014,Manufacturing,lithium,1.4
+6181,Real Estate,real estate,1.4
+2639,Healthcare,medical products,1.4
+9390,Construction & Engineering,construction,1.4
+3575,Finance and Investments,investments,1.4
+1694,Real Estate,real estate,1.4
+6381,Fashion & Retail,retail,1.4
+2141,Technology,software,1.4
+7783,Technology,"computer services, telecom",1.4
+1024,Diversified,property,1.4
+7875,Technology,online games,1.4
+5886,Logistics,package delivery,1.4
+3387,Real Estate,real estate,1.4
+2819,Service,educational services,1.4
+1286,Automotive,car dealerships,1.4
+6844,Manufacturing,graphite electrodes,1.4
+7041,Fashion & Retail,retailing,1.4
+5710,Healthcare,pharmaceuticals,1.4
+4351,Metals & Mining,real estate,1.4
+1898,Diversified,investments,1.4
+8121,Diversified,investments,1.4
+5502,Diversified,diversified,1.4
+2397,Diversified,diversified,1.4
+3172,Finance and Investments,investments,1.4
+3680,Energy,investments,1.4
+2929,Construction & Engineering,engineering,1.4
+1983,Technology,retail,1.4
+4653,Energy,power,1.4
+6864,Food and Beverage,dairy,1.4
+5890,Technology,software services,1.4
+7574,Metals & Mining,mining,1.4
+1221,Healthcare,vaccines,1.4
+7151,Technology,video games,1.4
+8156,Finance and Investments,"banking, insurance, media",1.4
+8747,Manufacturing,investments,1.4
+3534,Healthcare,pharmaceuticals,1.4
+7572,Technology,software,1.4
+8398,Finance and Investments,investment banking,1.4
+9173,Food and Beverage,coffee chain,1.4
+4579,Finance and Investments,insurance,1.4
+6106,Food and Beverage,"bakeries, fast food",1.4
+5020,Real Estate,real estate,1.4
+8333,Fashion & Retail,jewelry,1.4
+3155,Finance and Investments,investments,1.4
+7635,Fashion & Retail,sourcing,1.4
+6251,Finance and Investments,hedge funds,1.4
+5841,Construction & Engineering,real estate,1.4
+4104,Metals & Mining,"commodities, investments",1.4
+6395,Logistics,trading company,1.4
+2307,Manufacturing,leisure craft,1.4
+6375,Media & Entertainment,cable television,1.4
+8627,Manufacturing,textiles,1.4
+1797,Service,EasyJet,1.4
+4466,Diversified,diversified,1.4
+5640,Fashion & Retail,retail,1.3
+7138,Healthcare,pharmaceuticals,1.3
+3307,Manufacturing,chemicals,1.3
+7267,Manufacturing,engineering,1.3
+1511,Manufacturing,diversified,1.3
+9222,Technology,online apparel retail,1.3
+3738,Logistics,shipping,1.3
+9700,Real Estate,real estate,1.3
+5611,Diversified,diversified,1.3
+4843,Technology,lighting,1.3
+8475,Real Estate,real estate,1.3
+1853,Fashion & Retail,supermarkets,1.3
+3944,Technology,information technology,1.3
+4620,Diversified,investments,1.3
+9458,Finance and Investments,banking,1.3
+7320,Manufacturing,"fertilizer, real estate",1.3
+8204,Metals & Mining,trust fund,1.3
+8044,Metals & Mining,trust fund,1.3
+1498,Manufacturing,toys,1.3
+5030,Healthcare,pharmaceuticals,1.3
+7349,Finance and Investments,mutual funds,1.3
+4553,Construction & Engineering,toll roads,1.3
+1234,Media & Entertainment,media,1.3
+4651,Fashion & Retail,Nordstrom department stores,1.3
+1881,Technology,Craigslist,1.3
+1883,Real Estate,real estate,1.3
+4174,Construction & Engineering,Construction,1.3
+6426,Manufacturing,electrical equipment,1.3
+4972,Finance and Investments,diversified,1.3
+9963,Manufacturing,packaging,1.3
+8134,Food and Beverage,Cargill,1.3
+5004,Technology,IT products,1.3
+8994,Real Estate,real estate,1.3
+4645,Diversified,diversified,1.3
+3125,Fashion & Retail,costume jewelry,1.3
+2162,Manufacturing,glass,1.3
+6002,Real Estate,real estate,1.3
+4084,Manufacturing,"chemicals, spandex",1.3
+1172,Food and Beverage,brewery,1.3
+1405,Service,education,1.3
+4334,Technology,software,1.3
+7405,Real Estate,real estate,1.3
+6935,Metals & Mining,steel,1.3
+7398,Real Estate,real estate services,1.3
+7106,Service,wastewater treatment,1.3
+7051,Metals & Mining,trust fund,1.3
+3752,Food and Beverage,food sweeteners,1.3
+6998,Automotive,auto distribution,1.3
+5529,Food and Beverage,food,1.3
+8764,Technology,technology,1.3
+8327,Metals & Mining,coal mines,1.3
+9422,Technology,semiconductors,1.3
+3741,Manufacturing,"steel, heavy industry",1.3
+8267,Metals & Mining,steel,1.3
+1458,Food and Beverage,Cargill,1.3
+1997,Finance and Investments,mutual funds,1.3
+6335,Food and Beverage,Cargill,1.3
+3383,Construction & Engineering,"construction, investments",1.3
+4936,Metals & Mining,trust fund,1.3
+2155,Service,EasyJet,1.3
+9635,Fashion & Retail,Nordstrom department stores,1.3
+5716,Manufacturing,industrial lasers,1.3
+8861,Manufacturing,power tools,1.3
+7472,Service,education,1.3
+5839,Media & Entertainment,"TV shows, movies",1.3
+8848,Finance and Investments,money management,1.3
+8978,Telecom,mobile phones,1.3
+2224,Finance and Investments,banking,1.3
+9099,Fashion & Retail,shoes,1.3
+7131,Service,Xerox,1.3
+3373,Food and Beverage,"food, drinks",1.3
+2121,Real Estate,real estate,1.3
+9718,Healthcare,pharmaceuticals,1.3
+4820,Technology,electronics,1.3
+2766,Real Estate,property,1.3
+5712,Technology,AOL,1.3
+6120,Food and Beverage,consumer goods,1.3
+3728,Finance and Investments,banking,1.3
+8422,Finance and Investments,venture capital,1.3
+2236,Manufacturing,chemicals,1.3
+1185,Media & Entertainment,television,1.3
+7271,Food and Beverage,Cargill,1.3
+3027,Gambling & Casinos,betting machines,1.3
+4346,Manufacturing,toys,1.3
+1938,Fashion & Retail,fashion,1.3
+7804,Construction & Engineering,"construction, investments",1.3
+8985,Energy,"oil, banking, telecom",1.3
+3519,Technology,drones,1.3
+9832,Construction & Engineering,construction,1.3
+4669,Real Estate,real estate,1.3
+7252,Fashion & Retail,pharmacies,1.3
+1563,Diversified,investments,1.3
+9731,Fashion & Retail,"footwear, apparel",1.3
+8584,Manufacturing,solar panel components,1.3
+5583,Manufacturing,chemicals,1.3
+2031,Energy,natural gas,1.3
+7255,Fashion & Retail,retail,1.3
+6568,Diversified,diversified,1.3
+9444,Energy,gas,1.3
+2880,Diversified,chemicals,1.3
+4874,Manufacturing,electronics,1.3
+2874,Finance and Investments,financial services,1.3
+6736,Fashion & Retail,retail,1.3
+2314,Healthcare,pharmaceuticals,1.3
+8560,Finance and Investments,diversified,1.3
+1349,Finance and Investments,hedge funds,1.3
+5080,Technology,software firm,1.3
+1320,Finance and Investments,banking,1.3
+3139,Service,industrial equipment,1.3
+5390,Technology,semiconductors,1.3
+9670,Technology,semiconductors,1.3
+8710,Real Estate,real estate,1.2
+6391,Healthcare,pharmaceuticals,1.2
+9261,Healthcare,pharmaceuticals,1.2
+6407,Energy,"refinery, chemicals",1.2
+1057,Construction & Engineering,"construction, pipes, chemicals",1.2
+5557,Manufacturing,building materials,1.2
+4441,Fashion & Retail,retail,1.2
+7330,Diversified,"tires, chemicals",1.2
+4390,Metals & Mining,titanium,1.2
+7175,Technology,software services,1.2
+4895,Finance and Investments,investments,1.2
+4543,Healthcare,pharmaceuticals,1.2
+4941,Finance and Investments,investments,1.2
+2207,Energy,oil & gas,1.2
+5598,Technology,e-commerce,1.2
+5817,Automotive,automotive,1.2
+6726,Manufacturing,electronics,1.2
+3607,Real Estate,"construction, real estate",1.2
+7275,Food and Beverage,restaurants,1.2
+1551,Real Estate,real estate,1.2
+2267,Construction & Engineering,construction materials,1.2
+1108,Automotive,"basketball, car dealers",1.2
+3906,Telecom,telecom,1.2
+1100,Construction & Engineering,toll roads,1.2
+4527,Energy,"port, gas",1.2
+1227,Diversified,energy,1.2
+5171,Real Estate,"real estate, hotels",1.2
+6000,Real Estate,real estate,1.2
+3828,Service,sewage treatment,1.2
+1874,Food and Beverage,In-N-Out Burger,1.2
+3003,Real Estate,"airports, real estate",1.2
+3851,Manufacturing,precision machinery,1.2
+3543,Healthcare,medical devices,1.2
+8847,Healthcare,pharmaceuticals,1.2
+7378,Energy,gas,1.2
+6723,Real Estate,real estate,1.2
+6163,Manufacturing,auto parts,1.2
+7972,Real Estate,real estate,1.2
+3230,Fashion & Retail,retail,1.2
+9237,Real Estate,real estate,1.2
+7141,Manufacturing,paper & related products,1.2
+1946,Logistics,Shipping,1.2
+9793,Real Estate,real estate,1.2
+3472,Service,private schools,1.2
+4143,Healthcare,pharmacy,1.2
+7583,Manufacturing,Agribusiness,1.2
+1397,Automotive,auto parts,1.2
+6841,Service,driving schools,1.2
+3755,Healthcare,pharmaceuticals,1.2
+8766,Fashion & Retail,consumer goods,1.2
+8365,Energy,energy services,1.2
+8774,Finance and Investments,money management,1.2
+3999,Manufacturing,"natural gas, fertilizers",1.2
+3772,Service,airline,1.2
+5524,Diversified,airline,1.2
+1773,Real Estate,real estate,1.2
+9842,Media & Entertainment,movies,1.2
+9671,Fashion & Retail,"food, retail",1.2
+4043,Real Estate,Real estate,1.2
+5306,Finance and Investments,"banking, insurance",1.2
+6097,Technology,measuring instruments,1.2
+8058,Food and Beverage,restaurants,1.2
+4497,Construction & Engineering,construction,1.2
+9951,Technology,social network,1.2
+3991,Diversified,"copper, poultry",1.2
+5456,Energy,"refinery, chemicals",1.2
+6352,Manufacturing,rubber gloves,1.2
+3839,Food and Beverage,consumer goods,1.2
+1597,Finance and Investments,insurance,1.2
+7093,Real Estate,office real estate,1.2
+3832,Healthcare,hearing aids,1.2
+1490,Logistics,"transport, logistics",1.2
+7449,Construction & Engineering,construction,1.2
+5681,Fashion & Retail,clothing retail,1.2
+3289,Food and Beverage,Coca-Cola,1.2
+3911,Real Estate,real estate,1.2
+3869,Manufacturing,electrical equipment,1.2
+7911,Manufacturing,manufacturing,1.2
+8856,Diversified,diversified,1.2
+8418,Service,ride-hailing service,1.2
+6931,Energy,wind power generation,1.2
+2629,Media & Entertainment,animation,1.2
+3191,Finance and Investments,money management,1.2
+4937,Telecom,investments,1.2
+9823,Diversified,"banking, investments",1.2
+8855,Fashion & Retail,"retail, agribusiness",1.2
+9607,Diversified,"banking, oil",1.2
+5679,Fashion & Retail,supermarkets,1.2
+2072,Fashion & Retail,cosmetics,1.2
+7831,Construction & Engineering,"investments, real estate",1.2
+9988,Finance and Investments,commodities,1.2
+4019,Finance and Investments,money management,1.2
+1777,Metals & Mining,Steel,1.2
+6960,Finance and Investments,venture capital investing,1.2
+4960,Fashion & Retail,fashion retail,1.2
+7482,Diversified,diversified,1.2
+3432,Finance and Investments,investments,1.2
+7782,Food and Beverage,soy sauce maker,1.2
+3363,Manufacturing,home appliances,1.2
+1181,Diversified,diversified,1.2
+5225,Automotive,auto loans,1.2
+2114,Manufacturing,home & office products,1.2
+1687,Metals & Mining,mining,1.2
+1822,Fashion & Retail,apparel,1.2
+5719,Service,education,1.2
+7715,Finance and Investments,mutual funds,1.2
+2636,Technology,Internet,1.2
+2509,Media & Entertainment,Cirque du Soleil,1.2
+6887,Logistics,package delivery,1.2
+9553,Finance and Investments,Financial Services,1.2
+1989,Manufacturing,building materials,1.2
+8900,Real Estate,real estate,1.2
+9091,Fashion & Retail,electronics retailer,1.2
+7643,Energy,oil & gas,1.2
+8975,Real Estate,real estate,1.2
+5041,Real Estate,real estate,1.2
+6281,Manufacturing,electronics,1.2
+7000,Finance and Investments,finance,1.2
+7258,Finance and Investments,banking,1.2
+7222,Manufacturing,manufacturing,1.2
+8081,Energy,"gas, petrochemicals",1.2
+4564,Metals & Mining,mining,1.2
+9663,Healthcare,drug testing,1.2
+1738,Technology,uber,1.2
+5933,Manufacturing,consumer electronics,1.2
+3368,Food and Beverage,poultry,1.2
+5504,Healthcare,medical devices,1.2
+7639,Metals & Mining,minerals,1.2
+3453,Food and Beverage,bakeries,1.2
+5859,Real Estate,storage facilities,1.2
+6987,Diversified,diversified,1.2
+9308,Fashion & Retail,convenience stores,1.2
+6429,Technology,tech investments,1.1
+2602,Technology,tech investments,1.1
+6206,Finance and Investments,venture capital investing,1.1
+2181,Real Estate,entertainment,1.1
+5049,Diversified,"construction, real estate",1.1
+2219,Fashion & Retail,consumer goods,1.1
+7370,Diversified,diversified,1.1
+9067,Technology,e-commerce,1.1
+6264,Media & Entertainment,tourism,1.1
+9722,Fashion & Retail,wedding dresses,1.1
+1635,Media & Entertainment,casinos,1.1
+9272,Fashion & Retail,retail,1.1
+1800,Finance and Investments,investments,1.1
+2319,Finance and Investments,investments,1.1
+5544,Service,Ryanair,1.1
+2783,Finance and Investments,investments,1.1
+1544,Technology,price comparison website,1.1
+2611,Logistics,"ports, railway transport",1.1
+4556,Logistics,"ports, railway transport",1.1
+4459,Healthcare,pharmaceuticals,1.1
+4209,Healthcare,pharmaceuticals,1.1
+5484,Energy,energy investments,1.1
+4508,Technology,e-commerce,1.1
+6793,Diversified,conglomerate,1.1
+8946,Service,industrial parks,1.1
+1621,Manufacturing,powdered metal,1.1
+4623,Food and Beverage,wine,1.1
+7411,Finance and Investments,venture capital,1.1
+6764,Real Estate,real estate,1.1
+8550,Technology,tech investments,1.1
+9488,Diversified,insurance,1.1
+7594,Diversified,"refinery, chemicals",1.1
+8578,Telecom,telecom,1.1
+7353,Manufacturing,manufacturing,1.1
+7070,Fashion & Retail,jewelry,1.1
+8833,Diversified,"real estate, finance",1.1
+2567,Diversified,"real estate, shipbuilding",1.1
+2673,Diversified,diversified,1.1
+1652,Technology,online marketplace,1.1
+3207,Technology,drones,1.1
+3395,Automotive,automobiles,1.1
+8788,Fashion & Retail,health products,1.1
+8902,Service,sewage treatment,1.1
+8318,Service,budget airline,1.1
+2086,Automotive,auto parts,1.1
+6567,Manufacturing,fertilizers,1.1
+1807,Energy,oil and gas,1.1
+4939,Fashion & Retail,retail,1.1
+6325,Technology,software,1.1
+1686,Diversified,"insurance, NFL team",1.1
+5073,Diversified,"timber, media",1.1
+9968,Diversified,diversified,1.1
+2372,Media & Entertainment,media,1.1
+4476,Media & Entertainment,gaming,1.1
+5034,Finance and Investments,banking,1.1
+3248,Energy,"refinery, chemicals",1.1
+6263,Finance and Investments,investments,1.1
+4492,Finance and Investments,finance,1.1
+1333,Finance and Investments,finance and investments,1.1
+1206,Healthcare,healthcare,1.1
+1847,Service,staffing,1.1
+8032,Manufacturing,conglomerate,1.1
+9010,Healthcare,laboratory services,1.1
+8051,Manufacturing,construction materials,1.1
+8150,Technology,electronic components,1.1
+7820,Metals & Mining,coal,1.1
+6800,Gambling & Casinos,gambling,1.1
+2965,Diversified,"finance, real estate",1.1
+5549,Media & Entertainment,media,1.1
+3780,Diversified,diversified,1.1
+4599,Diversified,diversified,1.1
+8836,Diversified,diversified,1.1
+8866,Diversified,industrial machinery,1.1
+8883,Manufacturing,polyester,1.1
+3510,Technology,electronics components,1.1
+4600,Real Estate,"construction, real estate",1.1
+1834,Finance and Investments,banking,1.1
+6654,Technology,electronic components,1.1
+1246,Gambling & Casinos,pachinko machines,1.1
+3052,Finance and Investments,hedge funds,1.1
+2923,Fashion & Retail,retail,1.1
+3102,Finance and Investments,insurance,1.1
+8280,Energy,"banking, gas",1.1
+8247,Food and Beverage,Barilla pasta,1.1
+2606,Food and Beverage,Barilla pasta,1.1
+3836,Food and Beverage,Barilla pasta,1.1
+4068,Healthcare,hospitals,1.1
+8286,Healthcare,pharmaceuticals,1.1
+5728,Diversified,diversified,1.1
+8606,Construction & Engineering,construction,1.1
+6293,Logistics,chemicals,1.1
+1098,Finance and Investments,hedge funds,1.1
+5581,Healthcare,pharmaceuticals,1.1
+3871,Technology,IT consulting,1.1
+3683,Food and Beverage,Barilla pasta,1.1
+4506,Real Estate,real estate,1.1
+7652,Finance and Investments,banking,1.1
+4569,Technology,live streaming service,1.1
+5092,Logistics,"ports, railway transport",1.1
+5885,Finance and Investments,"banking, credit cards",1.1
+9246,Finance and Investments,banking,1.1
+6029,Finance and Investments,"banking, credit cards",1.1
+2521,Technology,investments,1.1
+3314,Manufacturing,scientific equipment,1.1
+3594,Manufacturing,toys,1.1
+2540,Real Estate,real estate,1.1
+8004,Technology,"electronics, household products",1.1
+1360,Real Estate,"real estate, hotels",1.1
+8171,Diversified,banking,1.1
+8497,Finance and Investments,investments,1.1
+6305,Technology,online games,1.1
+9355,Finance and Investments,IKEA,1.1
+8832,Real Estate,real estate,1.1
+7213,Fashion & Retail,Reebok,1.1
+7864,Finance and Investments,investments,1.1
+7640,Finance and Investments,IKEA,1.1
+9364,Diversified,"real estate, diversified",1.1
+5902,Fashion & Retail,mattresses,1.1
+2007,Energy,storage batteries,1.1
+8208,Technology,file hosting service,1.1
+1180,Telecom,communications,1.1
+9821,Automotive,tires,1.1
+3967,Manufacturing,electric linear systems,1.1
+9754,Finance and Investments,auto loans,1.1
+9478,Finance and Investments,IKEA,1.1
+2285,Real Estate,real estate,1.0
+8486,Automotive,auto parts,1.0
+6773,Manufacturing,biotech,1.0
+7552,Fashion & Retail,dollar stores,1.0
+2694,Fashion & Retail,jewelry,1.0
+1344,Food and Beverage,energy drinks,1.0
+7701,Automotive,auto import and dealerships,1.0
+7459,Metals & Mining,steel,1.0
+5226,Manufacturing,heating equipment,1.0
+6678,Real Estate,real estate,1.0
+3362,Finance and Investments,investments,1.0
+1153,Fashion & Retail,retail,1.0
+6932,Manufacturing,paper,1.0
+5917,Manufacturing,paper,1.0
+5989,Finance and Investments,Bloomberg LP,1.0
+1624,Diversified,diversified,1.0
+2712,Real Estate,real estate,1.0
+6835,Service,security services,1.0
+4916,Technology,lithium batteries,1.0
+3696,Technology,Pinterest,1.0
+1248,Manufacturing,manufacturing,1.0
+4321,Real Estate,real estate,1.0
+1826,Finance and Investments,Citigroup,1.0
+1207,Real Estate,"logistics, real estate",1.0
+9466,Manufacturing,printed circuit boards,1.0
+1175,Manufacturing,electrical equipment,1.0
+9196,Manufacturing,electrical equipment,1.0
+7578,Fashion & Retail,"fashion, entertainment",1.0
+8793,Diversified,air conditioning,1.0
+4603,Technology,apparel,1.0
+4854,Food and Beverage,agribusiness,1.0
+2970,Finance and Investments,"insurance, investments",1.0
+5405,Metals & Mining,"mining, diamonds, real estate",1.0
+8495,Technology,fiber optic cables,1.0
+4059,Manufacturing,chemicals,1.0
+8308,Finance and Investments,investments,1.0
+9392,Diversified,"telecom, lotteries, insurance",1.0
+4930,Real Estate,home building,1.0
+9047,Real Estate,real estate,1.0
+8124,Technology,electronics components,1.0
+4912,Media & Entertainment,advertising,1.0
+7363,Diversified,"textiles, energy",1.0
+7262,Finance and Investments,"Real Estate, Private Equity",1.0
+9124,Finance and Investments,Investment Management,1.0
+3001,Fashion & Retail,Patagonia,1.0
+6886,Food and Beverage,"candy, real estate",1.0
+6243,Construction & Engineering,construction materials,1.0
+8798,Media & Entertainment,internet media,1.0
+7122,Automotive,"motorhomes, RVs",1.0
+7907,Food and Beverage,beef processing,1.0
+5807,Technology,Stripe,1.0
+2483,Technology,Stripe,1.0
+9873,Metals & Mining,metallurgy,1.0
+5652,Manufacturing,tire manufacturing,1.0
+2176,Manufacturing,appliances,1.0
+8243,Real Estate,real estate,1.0
+2140,Real Estate,"real estate, electronics",1.0
+6641,Technology,semiconductors,1.0
+4957,Manufacturing,air compressors,1.0
+7732,Telecom,telecom,1.0
+5428,Fashion & Retail,Spanx,1.0
+7843,Healthcare,generic drugs,1.0
+1457,Finance and Investments,financial services,1.0
+7936,Automotive,automotive technology,1.0
+2446,Manufacturing,power supply manufacturer,1.0
+8629,Fashion & Retail,real estate,1.0
+9324,Real Estate,real estate,1.0
+9719,Metals & Mining,diamonds,1.0
+5577,Sports,sports teams,1.0
+1244,Finance and Investments,cement,1.0
+6200,Metals & Mining,metallurgy,1.0
+1162,Technology,electronics/household products,1.0
+4369,Diversified,"banking, investments",1.0
+8419,Finance and Investments,Investment,1.0
+5741,Technology,mobile gaming,1.0
+8024,Manufacturing,antennas,1.0
+9340,Technology,software,1.0
+2903,Finance and Investments,investment management,1.0
+4363,Technology,printed circuit boards,1.0
+7002,Healthcare,pharmaceuticals,1.0
+4412,Manufacturing,auto components,1.0
+1655,Gambling & Casinos,pachinko machines,1.0
+8413,Technology,printed circuit boards,1.0
+7136,Manufacturing,packaging,1.0
+2718,Diversified,diversified,1.0
