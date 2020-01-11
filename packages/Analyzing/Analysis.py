@@ -42,56 +42,26 @@ def bar_chart(df):
     return
 
 
-def bar_chart_money(df):
-    gsect_money = df.groupby(["gender", "Sector"]).sum()["Worth(BUSD)"]
-
-    gsect_money_f = gsect_money.loc["Female"].nlargest()
-    gsect_money_m = gsect_money.loc["Male"].nlargest()
-
-    labf = [lbl + "_f" for lbl in gsect_money_f.index]
-    valf = gsect_money_f.values
-    labm = [lbl + "_m" for lbl in gsect_money_m.index]
-    valm = gsect_money_m.values
-
-    labs_money = np.concatenate([labf, labm])
-    vals_money = np.concatenate([valf, valm])
-
+def bar_chart_full(df):
+    sector_f = df.groupby(["gender", "Sector"]).sum()["Worth(BUSD)"]["Female"]
+    sector_m = df.groupby(["gender", "Sector"]).sum()["Worth(BUSD)"]["Male"]
+    f_values = sector_f.values
+    m_values = sector_m.values
+    indices = sector_m.index
     plt.figure(figsize=(14, 7))
-    plt.title("Gender distribution by sector (top 5) in Worth BUSD", fontdict={'fontsize': 20, "fontname": "Impact"})
-    bars_count = plt.bar(labf, valf, color=["red"], label="Female") + plt.bar(labm, valm, color=["blue"], label="Male")
+
+    plt.bar(indices, m_values, width=0.6, color='#abcabc', label='Male')
+    plt.bar(indices, f_values, width=0.5 * 0.6, color='r', label='Female')
+
+    plt.title("Gender distribution by sector (in BUSD)", fontdict={'fontsize': 20, "fontname": "Impact"})
+
     label_font = {"fontsize": 20, "fontname": "Arial"}
-    plt.xlabel("Sector", fontdict=label_font)
+    plt.xticks(indices, rotation=-45, ha="left")
     plt.ylabel("Worth(BUSD)", fontdict=label_font)
-    plt.xticks(rotation=60)
+    plt.xlabel("Sector", fontdict=label_font)
     plt.legend()
-    plt.savefig("data/results/SectorGenderMoney_BarChart.png", dpi=400, bbox_inches="tight")
+    plt.savefig("data/results/SectorGenderBarChart.png", dpi=400, bbox_inches="tight")
     print("Bar chart sector 1 generated")
     return
 
-
-def bar_chart_count(df):
-    gsect_count = df.groupby(["gender", "Sector"]).count()["id"]
-
-    gsect_count_f = gsect_count.loc["Female"].nlargest()
-    gsect_count_m = gsect_count.loc["Male"].nlargest()
-
-    labf = [lbl + "_f" for lbl in gsect_count_f.index]
-    valf = gsect_count_f.values
-    labm = [lbl + "_m" for lbl in gsect_count_m.index]
-    valm = gsect_count_m.values
-
-    labs_count = np.concatenate([labf, labm])
-    vals_count = np.concatenate([valf, valm])
-
-    plt.figure(figsize=(14, 7))
-    plt.title("Gender distribution by sector (top 5) (real)", fontdict={'fontsize': 20, "fontname": "Impact"})
-    bars_count = plt.bar(labf, valf, color=["red"], label="Female") + plt.bar(labm, valm, color=["blue"], label="Male")
-    label_font = {"fontsize": 20, "fontname": "Arial"}
-    plt.xlabel("Sector", fontdict=label_font)
-    plt.ylabel("People count", fontdict=label_font)
-    plt.xticks(rotation=60)
-    plt.legend()
-    plt.savefig("data/results/SectorGenderAmount_BarChart.png", dpi=400, bbox_inches="tight")
-    print("Bar chart sector 2 generated")
-    return
 

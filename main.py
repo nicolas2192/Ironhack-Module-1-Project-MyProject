@@ -11,7 +11,7 @@ import packages.Reporting.Emaildelivery as em
 
 def main(wikipedia=False, api_gender=False, send_to=None):
 
-    cnx = "sqlite:///data/raw/nicolascortinas.db"
+    cnx = "sqlite:///data/raw/.......db"
     tables = {"b": "business_info", "p": "personal_info", "r": "rank_info"}
 
     # Main data, import from database
@@ -57,8 +57,7 @@ def main(wikipedia=False, api_gender=False, send_to=None):
     clean_df = an.fixing_gender(clean_df)
     an.pie_chart(clean_df)
     an.bar_chart(clean_df)
-    an.bar_chart_count(clean_df)
-    an.bar_chart_money(clean_df)
+    an.bar_chart_full(clean_df)
     clean_df.to_csv("data/results/data_table.csv", index=False)
 
     # Reporting
@@ -66,7 +65,7 @@ def main(wikipedia=False, api_gender=False, send_to=None):
 
 
 if __name__ == "__main__":
-    main(wikipedia=False, api_gender=False, send_to="nicosduty@gmail.com")
+    main(wikipedia=False, api_gender=False, send_to="")
 
 
 
