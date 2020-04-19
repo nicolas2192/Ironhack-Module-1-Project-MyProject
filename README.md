@@ -1,4 +1,8 @@
-# IronHack Bootcamp Module 1 Project
+# IronHack Data Analytics Bootcamp Module 1 Project
+
+<p align="center">
+  <img width="150" height="150" src="data/results/ironhacklogo.png">
+</p>
 
 ### :boom: Core technical concepts and inspiration
 This was the first project of the Ironhack Data Analytics Bootcamp. The main goal was to gather meaningful insights from a data set about the wealthiest men and women on earth. All steps taken to access and enhance the data as well as the main python modules used to perform such actions are described as follows:
@@ -28,4 +32,3 @@ The analysis confirms what was previously thought, men outnumber women in all an
   <img width="800" height="600" src="data/results/SectorGenderBarChart.png">
 </p>
 
-<img align="left" width="400" height="400" src="data/results/Gender_PieChart.png"><img align="right" width="500" height="300" src="data/results/SectorGenderBarChart.png">
