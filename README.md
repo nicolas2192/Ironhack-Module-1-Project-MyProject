@@ -1,7 +1,7 @@
 # IronHack Data Analytics Bootcamp Module 1 Project
 
 <p align="center">
-  <img width="150" height="150" src="data/results/ironhacklogo.png">
+  <img width="150" height="150" src="readme/ironhacklogo.png">
 </p>
 
 ### :boom: Core technical concepts and inspiration
