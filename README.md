@@ -20,5 +20,12 @@ This was handled by accessing a free API which returned a gender (Male or Female
 ### :bar_chart: Results
 The analysis confirms what was previously thought, men outnumber women in all analyzed sectors. However, the distribution don't follow the same pattern in both genders. As can be seen in the bar chart, technology, finance and fashion will be the sectors where men's wealth is mostly allocated while fashion, food and manufactering where you could find the bulk of women's wealth. 
 
-<img align="left" width="400" height="400" src="data/results/Gender_PieChart.png">
-<img align="right" width="500" height="300" src="data/results/SectorGenderBarChart.png">
+<p align="center">
+  <img width="400" height="400" src="data/results/Gender_PieChart.png">
+</p>
+
+<p align="center">
+  <img width="800" height="600" src="data/results/SectorGenderBarChart.png">
+</p>
+
+<img align="left" width="400" height="400" src="data/results/Gender_PieChart.png"><img align="right" width="500" height="300" src="data/results/SectorGenderBarChart.png">
